@@ -1,0 +1,122 @@
+html, body { direction:rtl; }
+.breadcrumb p a{margin-left:8px;}
+a.read-more i{margin-right:5px;}
+.widget header a.read-more{left:0;}
+#secondary .search-form{border-bottom-left-radius:25px;}
+.header_meta_one nav.meta-login ul li:nth-child(3){margin:5px 0 0 -1px;border-bottom-right-radius:20px;}
+.header_meta_one nav.meta-login ul li:nth-child(4){border-bottom-left-radius:20px;}
+.header_meta .social, .footer-widget social{float:right;}
+.header_meta .social li, .footer-widget .social li{float:right;}
+.contact-info span{padding-left:15px;}
+.contact-info span i{padding-left:5px;}
+.home-one .navbar-default .navbar-nav{margin-left:-10px;}
+.home-one .navbar li.pull-right{margin-right:0;}
+.home-one .navbar li.pull-right a.menu-cart{padding-left:10px;}
+.navbar li.pull-right a.menu-cart span{left:0;}
+.about-slide .slides{margin-right:20%;}
+.about-slide .flex-direction-nav .flex-prev{left:40px;}
+.our-features ul{margin:0 0 20px 0;}
+.our-features ul li{padding:0 10px 0 0;}
+.fun-gallery ul{margin:0 0 20px 0;}
+.fun-gallery ul li{padding:0 10px 0 0;}
+.school-classes ul{margin:0 0 20px 0;}
+.school-classes ul li{padding:0 10px 0 0;}
+.price{padding:9px 25px 9px 20px;left:-8px;}
+.price small{left:0;}
+.classes .classes-info{padding:10px 30px 20px 30px;}
+.classes .classes-info .classes-time li{padding:0 15px 0 0;float:right;border-left:1px solid #eee;}
+.school-classes .owl-theme .owl-controls{margin-right:10px;}
+.school-events ul{margin:0 0 20px 0;}
+.school-events ul li{padding:0 10px 0 0;}
+.school-events .events .events-info{padding:10px 30px 80px 30px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;}
+.school-events .events .events-info .events-time li{float:right;border-left:1px solid #eaecf3;}
+.school-events .events .events-info .events-time li:first-child{padding-right:0;}
+.school-events .events a.know-more{right:0;border-bottom-left-radius:5px;border-bottom-right-radius:5px;}
+.school-events .events a.know-more i{float:left;margin-left:20px;}
+.our-blog ul{margin:0 0 20px 0;}
+.our-blog ul li{padding:0 10px 0 0;}
+.blogs img{border-bottom-left-radius:5px;float:left;}
+.blogs a.know-more{right:0;text-align:right;padding:15px 20px 15px 0;}
+.blogs a.know-more i{float:left;margin-left:20px;}
+.our-teachers ul{margin:0 0 20px 0;}
+.our-teachers ul li{padding:0 10px 0 0;}
+.teachers img{float:right;}
+.teachers .social-icons li{float:right;}
+.teachers a.btn-default{padding:8px 20px 8px 15px;}
+.our-teachers .owl-theme .owl-controls{margin-right:10px;}
+.testimonials-kindergarten{padding:150px 0 30px 0;}
+.testimonials-kindergarten .carousel-indicators{margin:30px 0 0 0;right:0;}
+.testimonials-kindergarten .carousel-indicators li.active{margin-left:5px;}
+.home-two .navbar-default .navbar-nav{margin-left:-10px;}
+.home-two .navbar-default .navbar-nav > li:last-child a{padding-left:0;}
+.home-two .navbar-default .navbar-nav > li.i-home::before{margin-left:10px;}
+.home-two .navbar-default .navbar-nav > li.i-pages::before{margin-left:10px;}
+.home-two .navbar-default .navbar-nav > li.i-shop::before{margin-left:10px;}
+.home-two .navbar-default .navbar-nav > li.i-event::before{margin-left:10px;}
+.home-two .navbar-default .navbar-nav > li.i-press::before{margin-left:10px;}
+.testimonials-home-two{padding:150px 0 30px 0;}
+.muti-options-vtwo h3{margin:0 0 30px 0;}
+.timetable ul li{margin:0 0 35px 0;}
+.timetable ul li .time-info{float:left;}
+.timetable ul li i{float:right;}
+.blog-vtwo ul li{margin:0 0 30px 0;}
+.blog-vtwo ul li img{float:right;}
+.blog-vtwo ul li h3{clear:left;}
+.blog-vtwo ul li h3, .blog-vtwo ul li p{float:left;}
+.blog-vtwo a.b_viewall{margin-right:109px;}
+.notice .icon{float:right;}
+.notice .notice-info{float:left;}
+.contact-home-vtwo h3{padding:0 0 15px 0;}
+.contact-home-vtwo .cinfo i{margin-left:10px;}
+.about-info .about-slider .flex-direction-nav .flex-next{left:40px;}
+.about-info .about-slider .flex-direction-nav .flex-prev{right:15px;}
+.our-classes-two p.sub-line{margin:0 0 50px 0;padding:10px 0 20px 0;}
+.classes-v-two .thumb{float:left;}
+.classes-v-two:hover .thumb a.more{right:0;left:0;}
+.classes-v-two .classes-time li{float:right;border-left:1px solid #5751cf;}
+.classes-v-two .classes-time li:last-child{padding-right:20px;}
+.classes-v-two .classes-time li:first-child{padding-right:0;}
+.facilities ul li{padding:0 0 10px 0;}
+.facilities ul li::before{margin-left:15px;float:right;}
+.teachers-home-vtwo img{float:right;}
+.teachers-home-vtwo .social-icons li{float:right;}
+.teachers-home-vtwo a.btn-default{padding:8px 20px 8px 15px;}
+.teachers-vtwo .owl-controls{margin-right:10px;}
+.testimonials-home-two .carousel-indicators{margin:30px 0 0 0;right:0;}
+.testimonials-home-two .carousel-indicators li.active{margin-left:5px;}
+.courses-info .social-icons{margin-right:0;}
+#secondary .widget ul li{padding-right:0;padding-left:0;}
+.teacher-widget ul li img{float:right;}
+.teacher-widget ul li .simi-co{float:left;}
+.teacher-widget ul li p.meta a,#secondary .teacher-widget ul li p.meta a{padding-left:5px;}
+.teacher-widget ul li p.meta a{padding-right:5px;}
+#secondary .widget_courses ul{padding:15px 0 0 0;}
+.widget_courses img, .widget_courses li iframe{float:right;}
+.widget_courses li .simi-co, .recent_posts_widget .simi-co{float:left;}
+.widget_courses li h5, .recent_posts_widget .simi-co h5{padding:0 0 5px 0;}
+.widget_courses li .simi-price span{float:right;padding-left:10px;}
+.footer-widget .widget_courses li span.simi-price span{padding-left:10px;}
+.courses-info .courses-instructor li a{margin-left:8px;}
+.courses-instructor h3.inst-name{margin:12px 0 0 0;}
+.courses-instructor .col-sm-2{margin-right:-15px;padding-left:0;}
+.instructor-single{margin-right:inherit;margin-left:inherit;}
+.newsletter-widget .form-control{float:right;}
+.newsletter-widget .btn-orange{padding:12px 8px 15px 8px;}
+.contact-widget i{padding:3px 0 0 8px;float:right;}
+.contact-widget span{float:right;}
+.footer-widget .menu li{float:right;}
+@media (max-width:1024px) {
+.about-slide .flex-direction-nav .flex-next, .about-slide .flex-direction-nav .flex-next:hover{left:-37px !important;}
+.navbar{float:left;}
+}
+@media (max-width:980px) {
+.about-slide .slides{margin-right:0;}
+}
+@media (max-width:640px) {
+.home-two .navbar-default .navbar-nav > li > a{text-align:right;}
+.header_meta_one nav.meta-login ul li:nth-child(3){margin:5px 0 0 -5px;}
+.fun-gallery-slider .slides li .slide-right img{float:right;}
+.home-two .navbar-default .navbar-nav > li.i-home::before,.home-two .navbar-default .navbar-nav > li.i-class::before,.home-two .navbar-default .navbar-nav > li.i-teachers::before, .home-two .navbar-default .navbar-nav > li.i-pages::before, .home-two .navbar-default .navbar-nav > li.i-blog::before, .home-two .navbar-default .navbar-nav > li.i-shop::before,.home-two .navbar-default .navbar-nav > li.i-contact::before{margin-left:0;}
+.teachers-home-vtwo .col-sm-6{float:left;}
+.call-to-action-two a.btn-default{float:right !important;margin-right:10px;}
+}

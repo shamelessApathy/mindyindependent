@@ -1,0 +1,152 @@
+html, body { direction:rtl; }
+.search-form .input-group-btn{float:right;}
+.search-form .form-inline .input-group > .form-control{padding-right:10px;border-bottom-right-radius:3px;}
+.ui-autocomplete{right:0;}
+ul.ui-autocomplete, .ui-menu{border-bottom-left-radius:3px;border-bottom-right-radius:3px;}
+.courses-count span{float:right;padding-left:15px;margin-left:15px;border-left:1px solid #e4e8ee;}
+.sepretor{margin:8px auto 0 auto;}
+.cat_forth{float:right;}
+.cat_fifth{float:left;}
+.cat{padding:20px 40px 40px 40px;}
+.course h3{padding-left:42px;}
+.price{left:-8px;padding:9px 25px 9px 20px;}
+.price small{left:0px;}
+.course_space{padding:10px 30px 0px 30px;}
+.course_rel{right:30px;}
+.enroll{text-align:left;}
+.why-choose-us h2{padding:88px 0 30px 0;}
+.why-choose-us h3{padding:30px 0 15px 0;}
+.why-choose-us .btn-group .btn{margin:50px 10px 40px 10px;}
+.latest-news-updates{padding:0 0 100px 0;}
+.latest-news-updates h3{padding:0 0 0 10px;right:40px;}
+.latest-news-updates .article .meta{right:45px;}
+.sticky-tag{left:-8px;}
+.sticky-tag small{left:44px;}
+.sticky-tag span{left:0px;}
+.single-post .sticky-tag{left:7px;}
+.testimonials_outer{padding:75px 0 155px 0;}
+.testimonial img{float:right;margin-left:15px;}
+.instructor-week .remove_space{padding:0 0 0px 10px;}
+.instructor-week .phone i{margin-left:5px;}
+.i-email-subscribe{float:right;}
+.signup-newsletter p, .signup-newsletter h3{float:left;}
+.signup-newsletter .mc4wp-form{padding:40px 0 0 0;}
+.mc4wp-form .btn-orange{margin-right:-4px;}
+.mc4wp-form .btn-orange i{margin-left:0;}
+.header_meta_two .meta-login ul li{border-right:1px solid #1b5fca;}
+.home-two-search .courses-count span{border-left:1px solid #353c4a;}
+.home-two-search .head{right:0;}
+.home-two-testimonials .testimonial img{margin-left:0;}
+.home-third-header .left-navbar-toggle{padding:13px 15px 0 15px;float:left;}
+.home-third-header .navbar-header{left:4%;}
+.browse-by-category .head{right:43%;}
+.browse-by-category .by_cat{border-left:1px solid #dee3ec;}
+.browse-by-category .by_cat h3{padding:0 20px 0 60px;}
+.browse-by-category .by_cat p{padding:0 20px 0 60px;}
+.home-third-header .courses-count i{float:right;margin-left:5px;padding-left:5px;}
+.home-third-why .box{padding:40px 20px 27px 20px;}
+.latest-news-updates-space{padding:10px 30px 10px 30px;}
+.teachers-in .remove_space{padding:0 0 0px 10px;}
+.teachers-in .phone i{margin-left:5px;}
+.course a.img-thumb span{right:0;}
+.courses.list-group-item{margin-right:15px;}
+.courses.list-group-item .img-thumb{float:right;}
+.courses.list-group-item .course_space{float:left;}
+.courses.list-group-item .course_rel{float:left;right:0;margin-left:4%;clear:left;}
+.courses.list-group-item .course h3{padding-left:43px;}
+.courses.list-group-item img{float:right;}
+.dash-title{padding-right:15px;}
+.dash-note{padding-right:18px;}
+.sorting label{padding:13px 0 0 10px;}
+.well .btn-group{float:left;}
+.with-sidebar.three-column.grid-group-item .price{padding:9px 23px 9px 10px;}
+.breadcrumb-detail-page p{padding:20px 20px 20px 0;}
+.breadcrumb-in p{padding-right:0;}
+.courses-info ul{padding-right:0;}
+.courses-info ul li{padding-right:15px;}
+#main .co-join-info li{padding-right:0;}
+.co-join-info .co-price span{padding-left:10px;}
+.co-join-info ul{padding-right:0;}
+.co-join-info li span{float:right;}
+.co-join-info .btns form{float:right;}
+.co-join-info .btns form input[type="password"]{clear:right;}
+.courses-review p{margin:0 0 5px 0;}
+.stars-rating span{float:right;}
+.stars-rating .progress{float:right;}
+.stars-rating .progress-bar{float:right;}
+.courses-info .courses-instructor li a{margin-left:8px;}
+.courses-instructor h3.inst-name{margin:12px 0 0 0;}
+.courses-instructor .col-sm-2{margin-right:-15px;}
+.instructor-single{margin-right:inherit;margin-left:inherit;}
+a.button_submit{float:left;}
+.btns .btn::after{margin-right:10px;}
+.btns .btn{float:right;}
+a.fav{float:left;}
+a.fav span{left:-11px;}
+#secondary .widget_courses ul{padding:15px 0 0 0;}
+.widget_courses img, .widget_courses li iframe{float:right;}
+.widget_courses li .simi-co, .recent_posts_widget .simi-co{float:left;}
+.widget_courses li h5, .recent_posts_widget .simi-co h5{padding:0 0 5px 0;}
+.widget_courses li .simi-price span{float:right;padding-left:10px;}
+.footer-widget .widget_courses li span.simi-pricespan{padding-left:10px;}
+#modules_form #navigation-pagination.navigation, .pagination{text-align:left;}
+.pagination{padding-right:15px;}
+#navigation-pagination.navigation{float:left;}
+.login-form .student-settings .half-left{float:right;}
+.login-form .student-settings .half-right{float:left;}
+.login-form .student-settings .full, .register-form .full{padding-right:10px;}
+.register-form .btn{margin-left:16px;}
+.edit-form .btn{margin:10px 0 0 16px;}
+.cp_popup_col_2 .apply-button.signup, .cp_popup_col_2 .apply-button.login{margin-left:8px;}
+
+
+.woocommerce #reviews #comments ol.commentlist li img.avatar{float:right;}
+.woocommerce #reviews #comments ol.commentlist li .comment-text{margin:15px 76px 0 0;}
+.woocommerce .woocommerce-ordering, .woocommerce .woocommerce-result-count{float:right;}
+.woocommerce .star-rating{float:right;}
+.woocommerce #reviews .commentlist .star-rating{float:left;}
+#reviews #comments time{float:left;margin-right:7px;}
+.single-product .images .thumbnails a.zoom{float:right;}
+#commentform p.form-submit #submit{margin-right:18%;}
+.woocommerce-EditAccountForm .woocommerce-Button{margin-right:3px !important;}
+#secondary .woocommerce-product-search .search-field{margin-left:3px;float:right;}
+.woocommerce .widget_shopping_cart .cart_list li a.remove, .woocommerce.widget_shopping_cart .cart_list li a.remove{right:0;}
+.woocommerce form .form-row label.inline{padding-right:20px;}
+
+
+@media (min-width:1170px) {
+.price{padding:9px 20px 9px 10px;}
+}
+@media (max-width:980px) {
+.latest-news-updates .articel-list div.col-sm-3 h3, .latest-news-updates div.col-sm-3 .meta{right:20px;}
+.nav-tabs > li > a{margin-left:2px;}
+}
+@media (max-width:768px) {
+.browse-by-category .head{right:4%;}
+}
+@media (max-width:737px) {
+.action span{padding-right:0;padding-left:0;}
+}
+@media (max-width:640px) {
+.widget_courses li .simi-co{float:left;}
+.course-title, .unit-archive-single-title{margin-right:20px !important;margin-left:20px !important;}
+}
+@media (max-width:480px) {
+.home-two-testimonials .quote_l{float:right;}
+.home-two-testimonials .quote_r{float:left;}
+#commentform p.form-submit #submit{margin-right:0;}
+.mc4wp-form .btn-orange{margin-right:0;}
+}
+@media (max-width:414px) {
+.search-form .btn i{margin:0 0 0 10px;}
+}
+@media (max-width:367px) {
+.search-form .btn i{margin:0 0 0 10px;}
+}
+@media (max-width:360px) {
+.search-form .btn i{margin:0 0 0 10px;}
+}
+@media (max-width:320px) {
+.home-two-testimonials .quote_l{float:right;}
+.home-two-testimonials .quote_r{float:left;}
+}

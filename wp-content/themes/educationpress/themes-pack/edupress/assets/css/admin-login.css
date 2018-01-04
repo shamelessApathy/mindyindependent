@@ -1,0 +1,28 @@
+/* CSS Document */
+body { background: url(images/image.jpg) no-repeat center top;
+background-size:cover;}
+
+.wp-core-ui .button-group.button-large .button, .wp-core-ui .button.button-large {
+	font:bold 14px Montserrat,sans-serif;
+	background:#ff5722 ;
+	border:none; 
+	padding:15px 22px;
+	height:inherit;
+	text-shadow:0 0 0;
+	box-shadow: 0 0 0 #006799;
+}
+.wp-core-ui .button-group.button-large .button:hover, .wp-core-ui .button.button-large:hover {
+	background:#0583e4;	
+}
+
+.login form { border:1px solid #ccc; border-radius:5px; padding-bottom:25px; }
+.login form .input, .login input[type="text"] { font-size:14px; padding:10px 15px; }
+
+.login #nav a, .login #backtoblog a:hover, .login #backtoblog a { color:#ff5722; font-size:14px; 
+font-weight:bold; }
+.login #nav a:hover, .login #backtoblog a { color:#263238;  }
+
+/* For Social Login Compatibility */
+.wp-social-login-provider-list a, .wp-social-login-provider-list a:focus { text-decoration:none; outline:none; box-shadow: inherit;}
+
+

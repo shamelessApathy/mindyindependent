@@ -1,0 +1,94 @@
+html, body { direction:rtl; }
+.home-one{right:0;left:0;}
+.breadcrumb p a{margin-left:8px;}
+a.read-more i{margin-right:5px;}
+.widget header a.read-more{left:0;}
+.header_meta .social, .footer-widget social{float:left;}
+.header_meta .social li, .footer-widget .social li{float:right;}
+.contact-info span{padding-left:15px;}
+.contact-info span i{padding-left:5px;}
+.home-one .navbar-default .navbar-nav{margin-left:-25px;}
+.home-one.inner-pages .navbar-default .navbar-nav{margin-left:-25px;}
+.home-one .navbar-default .navbar-nav > li:last-child a{padding-left:0;}
+.home-one .navbar li.pull-right{margin-right:0;}
+.navbar li.pull-right a.menu-cart span{left:0;}
+.btn-medium{padding:12px 20px 10px 20px;}
+.aboutus figure{float:right;margin:8px -50px 15px 0px;}
+.aboutus .content{float:left;}
+.news-widget ul li img{float:right;}
+.news-widget ul li .simi-co{float:left;}
+.news-widget ul li p.meta a, .news-widget ul li p.meta span,#secondary .news-widget ul li p.meta a{padding-left:5px;}
+.news-widget ul li p.meta a{padding-right:5px;}
+.event-widget ul li .simi-co{float:left;}
+.event-widget ul li .calendar{padding:10px 0 15px 0;float:right;}
+.campus-slider .owl-theme .owl-controls{margin-right:10px;text-align:right;}
+.testimonials-univ{padding:150px 0 30px 0;}
+.testimonials-univ .carousel-indicators{margin:30px 0 0 0;right:0;}
+.search-univ .form-inline .form-control{margin-left:1%;}
+.search-univ .form-inline .selectpicker{margin-left:1%;}
+.search-univ .form-inline .btn-medium{padding:14px 20px 13px 40px;}
+.partners .owl-theme .owl-controls{margin-right:10px;}
+.home-univ-two .navbar-default .navbar-nav{margin-left:-10px;}
+.home-univ-two .navbar-default .navbar-nav > li{padding-left:8px;}
+.home-univ-two .navbar-default .navbar-nav > li:last-child,.home-univ-two .navbar-default .navbar-nav > li:last-child a{padding-left:0;}
+.home-univ-two .navbar li.pull-right a.menu-cart span{margin-left:5px;}
+.aboutus-two figure{margin-right:0;}
+.campus-anno-widget h3{padding:0 0 15px 0;}
+.news-widget-two ul li i{margin-left:5px;}
+.news-widget-two ul li p.meta span{padding-left:5px;}
+.administration-widget-two ul li::before{margin-left:5px;}
+.course-learn-spacer{padding:20px 0 100px 0;}
+.social-icons li, .courses-info .social-icons li, #main .social-icons li{float:right;}
+.courses-info .social-icons{margin-right:0;}
+.work-steps .steps{margin:40px 0 50px 0;}
+.work-steps .steps span{left:5%;}
+ul.bullet li{padding-right:25px;}
+#secondary .co-join-info{padding:0 0 40px 0;}
+.post-type-archive-product #main h1.page-title{margin-right:0;}
+#secondary .widget_events ul li .simi-co{float:left;}
+#secondary .widget_events ul li img{float:right;}
+.dataTables_wrapper .dataTables_paginate .paginate_button{margin-right:2px;}
+.teacher-widget ul li img{float:right;}
+.teacher-widget ul li .simi-co{float:left;}
+.teacher-widget ul li p.meta a,#secondary .teacher-widget ul li p.meta a{padding-left:5px;}
+.teacher-widget ul li p.meta a{padding-right:5px;}
+.courses-info .courses-instructor li a{margin-left:8px;}
+.courses-instructor h3.inst-name{margin:12px 0 0 0;}
+.courses-instructor .col-sm-2{margin-right:-15px;padding-left:0;}
+.instructor-single{margin-right:inherit;margin-left:inherit;}
+.teachers-in .remove_space{padding:0 0 0px 10px;}
+.teachers-in .phone i{margin-left:5px;}
+.newsletter h3{margin-left:20px;float:right;}
+.site-footer .mc4wp-form .btn-orange{float:left;margin-right:-4px;}
+.contact-widget i{padding:3px 0 0 8px;float:right;}
+.contact-widget span{float:right;}
+.footer-widget .menu li{float:right;}
+@media (max-width:1024px) {
+.home-univ-two .navbar-default .navbar-nav > li{padding-left:0;}
+.text-spacer{padding-right:20px;padding-left:20px;}
+}
+@media (max-width:667px) {
+.header-inner .site-branding, .home-univ-two .site-branding{float:right;}
+.search-univ .form-inline .btn-medium{padding:14px 20px 13px 40px;}
+}
+@media (max-width:640px) {
+.header-inner .site-branding{float:right;}
+}
+@media (max-width:414px) {
+.contact-info span{padding-left:8px;}
+.site-footer .mc4wp-form .btn-orange{margin-right:2px;}
+}
+@media (max-width:320px) {
+.header_meta p{text-align:right;}
+.site-footer .mc4wp-form .btn-orange{margin-right:2px;}
+}
+@media only screen and (max-width:800px) {
+#no-more-tables thead tr{right:-9999px;}
+#no-more-tables td{padding-right:50%;text-align:right;}
+#no-more-tables td:before{right:6px;padding-left:10px;text-align:right;}
+#no-more-tables td:nth-child(1):before{padding-right:25px;}
+#no-more-tables td:nth-child(2):before{padding-right:25px;}
+#no-more-tables td:nth-child(3):before{padding-right:25px;}
+#no-more-tables td:nth-child(4):before{padding-right:25px;}
+#no-more-tables td:nth-child(5):before{padding-right:25px;}
+}

@@ -1,0 +1,235 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">course</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">course_category</taxonomy>
+	</taxonomies>
+	<admin-texts>
+		<key name="educationpress_options">	
+			<!--
+			=============== Hello ===========
+			-->
+			<key name="educationpress_logo" />
+			<key name="educationpress_header_phone" />
+			<key name="educationpress_home_three_logo" />
+			<key name="educationpress_home_three_searchform_icon1" />
+			<key name="educationpress_home_three_searchform_icontext1" />
+			<key name="educationpress_home_three_searchform_icon2" />
+			<key name="educationpress_home_three_searchform_icontext2" />
+			<key name="educationpress_home_three_searchform_icon3" />
+			<key name="educationpress_home_three_searchform_icontext3" />
+			<key name="educationpress_coursedetail_desc_title" />
+			<key name="educationpress_coursedetail_structure_title" />
+			<key name="educationpress_coursedetail_inst_title" />
+			<key name="educationpress_coursedetail_reviews_title" />
+			<key name="educationpress_related_posts_title" />
+			<key name="educationpress_newsletter_title" />
+			<key name="educationpress_newsletter_desc" />
+			<key name="educationpress_newsletter_shortcode" />
+			<key name="educationpress_copyright_html" />
+			<key name="educationpress_developby_html" />
+			<key name="educationpress_quick_css" />
+		</key>
+		
+		
+		<key name="widget_educationpress_search_cat_filter">
+			<key name="*">
+				<key name="title"/>
+			</key>
+		</key>
+		<key name="widget_educationpress_search_lang_filter">
+			<key name="*">
+				<key name="title"/>
+			</key>
+		</key>
+				
+		<key name="widget_educationpress_course_search_widget">
+			<key name="*">
+				<key name="title"/>
+			</key>
+		</key>
+		
+		<key name="widget_educationpress_Courses_Widget">
+			<key name="*">
+				<key name="title"/>
+			</key>
+		</key>
+		
+		
+		<key name="widget_educationpress_Recent_events_Widget">
+			<key name="*">
+				<key name="title"/>
+			</key>
+		</key>
+		
+		<key name="widget_educationpress_Recent_Posts_Widget">
+			<key name="*">
+				<key name="title"/>
+			</key>
+		</key>
+		<key name="widget_educationpress_Similar_Courses_Widget">
+			<key name="*">
+				<key name="title"/>
+			</key>
+		</key>
+		<key name="widget_educationpress_search_price_filter">
+			<key name="*">
+				<key name="title"/>
+			</key>
+		</key>
+		
+		
+		
+		
+		<key name="widget_cp_widget_categories">
+			<key name="*">
+				<key name="title"/>
+			</key>
+		</key>
+		
+		
+		<key name="widget_cp_featured_course">
+			<key name="*">
+				<key name="title"/>
+				<key name="button_title"/>
+				<key name="course"/>
+			</key>
+		</key>
+		
+		
+		<key name="widget_cp_latest_courses">
+			<key name="*">
+				<key name="title"/>
+				<key name="button_title"/>
+			</key>
+		</key>
+
+
+		<key name="widget_cp_course_structure">
+			<key name="*">
+				<key name="title"/>
+				<key name="course"/>
+			</key>
+		</key>
+
+		<key name="widget_cp_course_calendar">
+			<key name="*">
+				<key name="title"/>
+				<key name="pre_text"/>
+				<key name="next_text"/>
+				<key name="indicator"/>
+				<key name="course"/>
+			</key>
+		</key>
+		
+		
+		
+		<key name="mp_settings">
+			<key name="base_country"/>
+			<key name="zip_label"/>
+			<key name="currency"/>
+			<key name="details_collection"/>
+			<key name="image_alignment_single"/>
+			<key name="image_alignment_list"/>
+			<key name="product_button_type"/>
+			<key name="shipping">
+				<key name="fedex"/>
+				<key name="pickup">
+					<key name="pickup-title"/>
+				</key>
+				<key name="table_rate"/>
+				<key name="ups"/>
+				<key name="weight_rate"/>
+				<key name="usps"/>
+			</key>
+			<key name="gateways">
+				<key name="eway31"/>
+			</key>
+			<key name="email">
+				<key name="admin_order">
+					<key name="subject"/>
+					<key name="text"/>
+				</key>
+				<key name="new_order">
+					<key name="subject"/>
+					<key name="text"/>
+				</key>
+				<key name="new_order_downloads">
+					<key name="subject"/>
+					<key name="text"/>
+				</key>
+				<key name="new_order_mixed">
+					<key name="subject"/>
+					<key name="text"/>
+				</key>
+				<key name="order_shipped">
+					<key name="subject"/>
+					<key name="text"/>
+				</key>
+				<key name="order_shipped_downloads">
+					<key name="subject"/>
+					<key name="text"/>
+				</key>
+				<key name="order_shipped_mixed">
+					<key name="subject"/>
+					<key name="text"/>
+				</key>
+			</key>
+			<key name="base_province"/>
+		</key>
+		<key name="coursepress_settings">			
+			<key name="pages">
+				<key name="enrollment"/>
+				<key name="login"/>
+				<key name="signup"/>
+				<key name="student_dashboard"/>
+			</key>
+			<key name="reports">
+				<key name="font"/>
+			</key>
+			<key name="basic_certificate">
+				<key name="content"/>
+				<key name="orientation"/>
+			</key>
+			<key name="email">
+				<key name="basic_certificate">
+					<key name="auto_email"/>
+					<key name="email"/>
+					<key name="subject"/>
+					<key name="content"/>
+				</key>
+				<key name="registration">
+					<key name="from"/>
+					<key name="subject"/>
+					<key name="content"/>
+				</key>
+				<key name="enrollment_confirm">
+					<key name="from"/>
+					<key name="subject"/>
+					<key name="content"/>
+				</key>
+				<key name="course_invitation">
+					<key name="from"/>
+					<key name="subject"/>
+					<key name="content"/>
+				</key>
+				<key name="course_invitation_password">
+					<key name="from"/>
+					<key name="subject"/>
+					<key name="content"/>
+				</key>
+				<key name="instructor_invitation">
+					<key name="from"/>
+					<key name="subject"/>
+					<key name="content"/>
+				</key>
+				<key name="new_order">
+					<key name="from"/>
+					<key name="subject"/>
+					<key name="content"/>
+				</key>
+			</key>
+		</key>
+	</admin-texts>
+</wpml-config>

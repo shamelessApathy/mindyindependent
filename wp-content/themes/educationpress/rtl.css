@@ -1,0 +1,93 @@
+html, body { direction:rtl; }
+nav.meta-login, .signup-newsletter p, .signup-newsletter h3, .home-third-header .right-navbar-toggle,
+.related-posts .col-sm-6:nth-child(3), .events .entry-meta .social-icons, .event-countdown .btn,
+.courses.list-group-item .course_space, .courses.list-group-item .course_rel, .well .btn-group,
+#main .review-list li .review-left, #main .review-list li .review-left .time, .progress, .unit-archive-single .progress-bar, 
+a.button_submit, a.fav, .widget_events li .simi-co, .recent_posts_widget li .simi-co,
+.login-form .student-settings .half-left, .new_question input[type="submit"].button_submit, 
+.discussion-controls input[type="submit"].button_submit, .discussion-controls .button_submit,
+nav.meta-login { float:left; }
+
+nav.meta-login ul li, nav.meta-login ul li i, .search-form .input-group-btn, .courses-count span, .cat_forth,
+.testimonial img, .i-email-subscribe, .home-third-header .courses-count i, .social-icons li, .courses-info .social-icons li,
+.event-countdown .col, .contact-info .address i, .courses.list-group-item .img-thumb, .courses.list-group-item img,
+.stars-rating span, .stars-rating .progress, .stars-rating ..progress-bar, #main .review-list li .author,
+#main .review-list li .review-left .author-name, .co-join-info li span, .co-join-info .btns form,
+.apply-button-passcode, .unit-in-list a.unit-archive-single-title, .grade-percentage, .unit-archive-single a.unit-archive-single-title,
+.unit-archive-single .unit-archive-single-module-status, .discussion-archive-single-meta, .discussion-archive-single,
+.discussion-responses .comment-content p, .discussion-responses .comment-content a, .login-form .student-settings .half-right,
+.new_question a.button_cancel, .discussion-controls .button_submit, .btns .btn, .widget_courses li span.simi-price, 
+.widget_events li img, .recent_posts_widget img, .widget_courses img, .widget_courses li iframe, #commentform p label, #comments .author-photo,
+.cat_fifth, .widget_courses li .simi-co { float:right; }
+
+/* Text align ////*/
+.enroll { text-align:left; }
+
+.plan ul { text-align:right; padding-right:15%; padding-left:15%; }
+.rr_review_form .form_table .rr_form_row .rr_form_heading { text-align:right !important; }
+.passcode-box { text-align:right; }
+.total_grade { text-align: left; }
+.discussion-archive-list .discussion-archive-single-meta {text-align:right; }
+.site-footer p.develop { text-align:right; }
+
+/* Aliments */
+nav.meta-login ul li { border-right:1px solid #e9ecef; }
+.courses-count span { padding-left:15px; margin-left:15px; border-left:1px solid #e4e8ee; }
+.testimonial img { margin-left:15px;}
+.home-third-header .courses-count i { margin-left:5px; padding-left:5px; }
+.related-posts .col-sm-6:nth-child(3) { padding-left:0; }
+.event-countdown .col { padding-left:10px; }
+.courses.list-group-item .course_rel { right:0; }
+.passcode-box { text-align:right; }
+.grade-percentage { margin-left:30px;}
+.new_question a.button_cancel { margin-right: 3px; }
+.discussion-controls .button_submit { margin-right: 2px; }
+
+.site-footer p.copy { text-align:left; }
+.courses.list-group-item .course h3 {padding-right: 54px; }
+.well .btn-group { float: left; margin-left: 20px;}
+#secondary .widget_search .search-submit { left:8px; right:inherit; }
+.event-countdown .btn { float:left; }
+.co-join-info li span { float:right; }
+.rr_review_form .form_table .rr_form_row .rr_form_heading { padding-left:15px; }
+.courses-info h3, #secondary .widget h3, .footer-widget h6,
+.upcoming-event h2, .instructor-week h2, .free-course-week h2 {  background-position:right bottom !important; }
+.navbar { float:left !important; }
+
+@media (max-width:980px) {
+    nav.meta-login{padding-right:0;}
+    .navbar{float:right !important;}
+    .latest-news-updates .articel-list div.col-sm-3 h3, .latest-news-updates div.col-sm-3 .meta{right:20px;}
+}
+@media (max-width:768px) {
+    .font-large strong{right:30.3%;}
+    .browse-by-category .head{right:4%;}
+}
+@media (max-width:767px) {
+    .navbar li.pull-right a.woo-menu-cart span{left:41%;}
+}
+@media (max-width:640px) {
+    .mc4wp-form .form-control{float:right;}
+    .signup-newsletter .mc4wp-form{padding:0 0 40px 0;}
+}
+@media (max-width:480px) {
+    .site-footer p.develop{text-align:right;}
+    .home-two-testimonials .quote_l{float:right;}
+    .home-two-testimonials .quote_r{float:left;}
+}
+@media (max-width:360px) {
+    .search-form .btn i{margin:0 0 0 10px;}
+}
+@media (max-width:320px) {
+    .mc4wp-form .btn-orange{margin-right:2px;}
+    .home-two-testimonials .quote_l{float:right;}
+    .home-two-testimonials .quote_r{float:left;}
+}
+@media (max-width:800px) {
+    .font-large strong{right:19%;}
+    .breadcrumb-in p{padding:20px 20px 20px 0;}
+    #main .units-archive-list li{margin:0 20px 10px 20px;}
+    .front-single-module, .front-single-module-save,.course-title, .unit-archive-single-title{margin-right:20px !important;margin-left:20px !important;}
+    #modules_form input.apply-button-enrolled.submit-elements-data-button[type=\"submit\"], .save_progress{margin-right:20px;}
+    #modules_form #navigation-pagination.navigation{margin-left:20px;}
+}

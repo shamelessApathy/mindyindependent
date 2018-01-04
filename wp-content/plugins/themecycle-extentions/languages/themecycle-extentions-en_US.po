@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeCycle Extention\n"
+"POT-Creation-Date: 2016-04-07 19:42+0530\n"
+"PO-Revision-Date: 2016-04-07 19:43+0530\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language-Team: M Saqib Sarwar <info@themecycle.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: themecycle-extentions.php:28
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr ""
+
+#: themecycle-extentions.php:29
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr ""
+
+#: themecycle-extentions.php:30 themecycle-extentions.php:46
+#: themecycle-extentions.php:47
+msgid "Testimonials"
+msgstr ""
+
+#: themecycle-extentions.php:31
+msgid "Testimonial"
+msgstr ""
+
+#: themecycle-extentions.php:32
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: themecycle-extentions.php:33
+msgid "All Testimonials"
+msgstr ""
+
+#: themecycle-extentions.php:34
+msgid "Add New Testimonial"
+msgstr ""
+
+#: themecycle-extentions.php:35 themecycle-extentions.php:74
+#: themecycle-extentions.php:123
+msgid "Add New"
+msgstr ""
+
+#: themecycle-extentions.php:36
+msgid "New Testimonial"
+msgstr ""
+
+#: themecycle-extentions.php:37
+msgid "Edit Testimonials"
+msgstr ""
+
+#: themecycle-extentions.php:38
+msgid "Update Testimonial"
+msgstr ""
+
+#: themecycle-extentions.php:39
+msgid "View Testimonial"
+msgstr ""
+
+#: themecycle-extentions.php:40
+msgid "Search Testimonial"
+msgstr ""
+
+#: themecycle-extentions.php:41 themecycle-extentions.php:80
+#: themecycle-extentions.php:129
+msgid "Not found"
+msgstr ""
+
+#: themecycle-extentions.php:42 themecycle-extentions.php:81
+#: themecycle-extentions.php:130
+msgid "Not found in Trash"
+msgstr ""
+
+#: themecycle-extentions.php:67
+msgctxt "Post Type General Name"
+msgid "Events"
+msgstr ""
+
+#: themecycle-extentions.php:68
+msgctxt "Post Type Singular Name"
+msgid "Event"
+msgstr ""
+
+#: themecycle-extentions.php:69
+msgid "Events"
+msgstr ""
+
+#: themecycle-extentions.php:70 themecycle-extentions.php:93
+msgid "Event"
+msgstr ""
+
+#: themecycle-extentions.php:71
+msgid "Parent Event:"
+msgstr ""
+
+#: themecycle-extentions.php:72
+msgid "All Events"
+msgstr ""
+
+#: themecycle-extentions.php:73
+msgid "Add New Event"
+msgstr ""
+
+#: themecycle-extentions.php:75
+msgid "New Event"
+msgstr ""
+
+#: themecycle-extentions.php:76
+msgid "Edit Event"
+msgstr ""
+
+#: themecycle-extentions.php:77
+msgid "Update Event"
+msgstr ""
+
+#: themecycle-extentions.php:78
+msgid "View Event"
+msgstr ""
+
+#: themecycle-extentions.php:79
+msgid "Search Event"
+msgstr ""
+
+#: themecycle-extentions.php:85
+msgid "events"
+msgstr ""
+
+#: themecycle-extentions.php:92
+msgid "event"
+msgstr ""
+
+#: themecycle-extentions.php:116
+msgctxt "Post Type General Name"
+msgid "Galleries"
+msgstr ""
+
+#: themecycle-extentions.php:117
+msgctxt "Post Type Singular Name"
+msgid "Gallery"
+msgstr ""
+
+#: themecycle-extentions.php:118
+msgid "Galleries"
+msgstr ""
+
+#: themecycle-extentions.php:119
+msgid "Gallery"
+msgstr ""
+
+#: themecycle-extentions.php:120
+msgid "Parent Gallery:"
+msgstr ""
+
+#: themecycle-extentions.php:121
+msgid "All Galleries"
+msgstr ""
+
+#: themecycle-extentions.php:122
+msgid "Add New Gallery"
+msgstr ""
+
+#: themecycle-extentions.php:124
+msgid "New Gallery"
+msgstr ""
+
+#: themecycle-extentions.php:125
+msgid "Edit Gallery"
+msgstr ""
+
+#: themecycle-extentions.php:126
+msgid "Update Gallery"
+msgstr ""
+
+#: themecycle-extentions.php:127
+msgid "View Gallery"
+msgstr ""
+
+#: themecycle-extentions.php:128
+msgid "Search Gallery"
+msgstr ""
+
+#: themecycle-extentions.php:133 themecycle-extentions.php:139
+msgid "gallery"
+msgstr ""
+
+#: themecycle-extentions.php:140
+msgid "Gallery Description"
+msgstr ""
+
+#: themecycle-extentions.php:161
+msgctxt "Taxonomy General Name"
+msgid "Category"
+msgstr ""
+
+#: themecycle-extentions.php:162
+msgctxt "Taxonomy Singular Name"
+msgid "Category"
+msgstr ""
+
+#: themecycle-extentions.php:163
+msgid "Categories"
+msgstr ""
+
+#: themecycle-extentions.php:164
+msgid "All Categories"
+msgstr ""
+
+#: themecycle-extentions.php:165
+msgid "Parent Category"
+msgstr ""
+
+#: themecycle-extentions.php:166
+msgid "Parent Category:"
+msgstr ""
+
+#: themecycle-extentions.php:167
+msgid "New Category"
+msgstr ""
+
+#: themecycle-extentions.php:168
+msgid "Add New Category"
+msgstr ""
+
+#: themecycle-extentions.php:169
+msgid "Edit Category"
+msgstr ""
+
+#: themecycle-extentions.php:170
+msgid "Update Category"
+msgstr ""
+
+#: themecycle-extentions.php:171
+msgid "View Category"
+msgstr ""
+
+#: themecycle-extentions.php:172
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: themecycle-extentions.php:173
+msgid "Add or remove Categories"
+msgstr ""
+
+#: themecycle-extentions.php:174
+msgid "Choose from the most used"
+msgstr ""
+
+#: themecycle-extentions.php:175
+msgid "Popular Categories"
+msgstr ""
+
+#: themecycle-extentions.php:176
+msgid "Search Categories"
+msgstr ""
+
+#: themecycle-extentions.php:177
+msgid "Not Found"
+msgstr ""
+
+#: themecycle-extentions.php:181
+msgid "gallery-category"
+msgstr ""

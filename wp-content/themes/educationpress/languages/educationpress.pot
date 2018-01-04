@@ -1,0 +1,3834 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: EducationPress\n"
+"POT-Creation-Date: 2017-03-22 16:46+0530\n"
+"PO-Revision-Date: 2016-06-09 19:00+0530\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language-Team: Ahmed <info@themecycle.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:16
+msgid "404 Error Page"
+msgstr ""
+
+#: 404.php:29
+msgid "page not found"
+msgstr ""
+
+#: 404.php:32
+msgid "Something Is Wrong"
+msgstr ""
+
+#: 404.php:35
+msgid ""
+"The page you are looking for was moved, removed, renamed \n"
+"\t\t\t\t\t\tor might never exist. "
+msgstr ""
+
+#: 404.php:38
+msgid "Go Home"
+msgstr ""
+
+#: archive-course.php:29
+msgid "Course Category : "
+msgstr ""
+
+#: archive-course.php:241
+#: inc/page-builder-widget/home-one-popular-courses/tpl/default.php:83
+#: inc/page-builder-widget/home-three-popular-courses/tpl/default.php:75
+#: inc/page-builder-widget/home-two-popular-courses/tpl/default.php:76
+#: page-templates/tpl-courses-grid-2-col.php:190
+#: page-templates/tpl-courses-grid-3-col.php:188
+#: page-templates/tpl-courses-list.php:178 page-templates/tpl-courses.php:209
+#: page-templates/tpl-wishlist-course.php:74 single-instructor.php:153
+#: template-parts/content-search.php:24
+msgid "Sale"
+msgstr ""
+
+#: archive-course.php:278
+#: inc/page-builder-widget/home-one-popular-courses/tpl/default.php:108
+#: inc/page-builder-widget/home-three-popular-courses/tpl/default.php:99
+#: inc/page-builder-widget/home-two-popular-courses/tpl/default.php:100
+#: page-templates/tpl-courses-grid-2-col.php:227
+#: page-templates/tpl-courses-grid-3-col.php:223
+#: page-templates/tpl-courses-list.php:202 page-templates/tpl-courses.php:251
+#: page-templates/tpl-wishlist-course.php:99 single-instructor.php:177
+#: template-parts/content-search.php:48
+msgid "by: "
+msgstr ""
+
+#: archive-course.php:283
+#: inc/page-builder-widget/home-one-popular-courses/tpl/default.php:113
+#: inc/page-builder-widget/home-three-popular-courses/tpl/default.php:104
+#: inc/page-builder-widget/home-two-popular-courses/tpl/default.php:105
+#: page-templates/tpl-courses-grid-2-col.php:232
+#: page-templates/tpl-courses-grid-3-col.php:228
+#: page-templates/tpl-courses-list.php:207 page-templates/tpl-courses.php:256
+#: page-templates/tpl-wishlist-course.php:104 single-instructor.php:182
+#: template-parts/content-search.php:56
+msgid "in:"
+msgstr ""
+
+#: archive-course.php:325
+#: inc/page-builder-widget/home-one-popular-courses/tpl/default.php:151
+#: inc/page-builder-widget/home-three-popular-courses/tpl/default.php:140
+#: inc/page-builder-widget/home-two-popular-courses/tpl/default.php:141
+#: page-templates/tpl-courses-grid-2-col.php:274
+#: page-templates/tpl-courses-grid-3-col.php:270
+#: page-templates/tpl-courses-list.php:249 page-templates/tpl-courses.php:298
+#: page-templates/tpl-wishlist-course.php:145 single-instructor.php:219
+#: template-parts/content-course-overview.php:169
+#: template-parts/content-course-overview.php:437
+#: template-parts/content-search.php:98
+msgid "Enrolled"
+msgstr ""
+
+#: archive-discussions.php:36 archive-notifications.php:38
+#: archive-unit-grades.php:38 archive-unit-workbook.php:44 archive-unit.php:49
+#: index.php:11 page-add-new-discussion.php:59
+#: page-templates/tpl-wishlist-course.php:33 page.php:63 page.php:96
+#: page.php:126 single-course.php:18 single-unit.php:131
+msgid "Home"
+msgstr ""
+
+#: archive-discussions.php:37 archive-notifications.php:39
+#: archive-unit-grades.php:39 archive-unit-workbook.php:45 archive-unit.php:50
+#: page-add-new-discussion.php:60 page-templates/tpl-wishlist-course.php:34
+#: page.php:64 page.php:97 page.php:127 single-course.php:19
+#: single-unit.php:132
+msgid "All Courses"
+msgstr ""
+
+#: archive-discussions.php:40 page-add-new-discussion.php:63 page.php:103
+#: page.php:140
+msgid "Discussions"
+msgstr ""
+
+#: archive-discussions.php:53 page-add-new-discussion.php:64
+msgid "Ask a Question"
+msgstr ""
+
+#: archive-discussions.php:95 template-parts/content-discussion.php:33
+msgid "Comments"
+msgstr ""
+
+#: archive-discussions.php:105
+msgid "0 discussions. Start one, ask a question."
+msgstr ""
+
+#: archive-event.php:41
+#: inc/page-builder-widget/home-one-free-course-week/tpl/default.php:42
+#: inc/page-builder-widget/home-one-upcoming-event/tpl/default.php:17
+#: inc/page-builder-widget/home-two-recent-posts/tpl/default.php:31
+#: page-templates/tpl-events.php:46 template-parts/content-event.php:33
+msgid "on:"
+msgstr ""
+
+#: archive-event.php:41 page-templates/tpl-events.php:46
+#: template-parts/content-event.php:33 template-parts/content-event.php:36
+msgid "."
+msgstr ""
+
+#: archive-event.php:44 page-templates/tpl-events.php:49
+msgid " at:"
+msgstr ""
+
+#: archive-event.php:48
+#: inc/page-builder-widget/home-one-free-course-week/tpl/default.php:46
+#: inc/page-builder-widget/home-one-instructor-week/tpl/default.php:76
+#: inc/page-builder-widget/home-one-upcoming-event/tpl/default.php:19
+#: inc/page-builder-widget/home-two-recent-posts/tpl/default.php:44
+#: page-templates/tpl-events.php:53 page-templates/tpl-our-techers.php:150
+#: template-parts/content-gallery.php:51 template-parts/content-quote.php:70
+#: template-parts/content.php:63
+msgid "Read More"
+msgstr ""
+
+#: archive-notifications.php:42 page.php:72
+msgid "Notification"
+msgstr ""
+
+#: archive-notifications.php:105
+msgid "0 notifications. Please check back later."
+msgstr ""
+
+#: archive-unit-grades.php:42
+msgid "Grades"
+msgstr ""
+
+#: archive-unit-grades.php:63
+msgid "Course Grades"
+msgstr ""
+
+#: archive-unit-grades.php:72
+msgid "TOTAL:"
+msgstr ""
+
+#: archive-unit-grades.php:84 archive-unit-workbook.php:100
+msgid "0 Units in the course"
+msgstr ""
+
+#: archive-unit-workbook.php:24 archive-unit-workbook.php:86
+msgid "completed"
+msgstr ""
+
+#: archive-unit-workbook.php:48
+msgid "Workbook"
+msgstr ""
+
+#: archive-unit-workbook.php:61
+msgid "Course Complete"
+msgstr ""
+
+#: archive-unit.php:59 single-unit.php:142
+msgid "Units"
+msgstr ""
+
+#: author.php:29
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: comments-discussion.php:30 comments-discussion.php:50 comments.php:35
+#: comments.php:51
+msgid "Comment navigation"
+msgstr ""
+
+#: comments-discussion.php:31 comments-discussion.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments-discussion.php:32 comments-discussion.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments-discussion.php:62 comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: comments-discussion.php:69 comments-discussion.php:72
+msgid "Answer the Question"
+msgstr ""
+
+#: comments-discussion.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments-discussion.php:71
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments-discussion.php:74
+msgid "Write a response"
+msgstr ""
+
+#: comments.php:30
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:30
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:30
+msgid "<span>(%)</span> Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:54
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:39 comments.php:55
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:72
+msgid "Submit"
+msgstr ""
+
+#: comments.php:73
+msgid "Leave A Comment"
+msgstr ""
+
+#: content-single.php:83 page-templates/home.php:48
+#: page-templates/tpl-contact.php:103 page-templates/tpl-fullwidth.php:41
+#: page-templates/tpl-our-techers.php:41 page-templates/tpl-pagebuilder.php:39
+#: template-parts/content-gallery.php:34 template-parts/content-page.php:19
+#: template-parts/content-quote.php:53 template-parts/content-single.php:83
+#: template-parts/content.php:46
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:119
+msgid "Logged In Menu"
+msgstr ""
+
+#: functions.php:120
+msgid "Visiter Menu"
+msgstr ""
+
+#: functions.php:237
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:239
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:248
+msgid "Search Blog"
+msgstr ""
+
+#: functions.php:250
+msgid "Search Blog Listing Page Sidebar"
+msgstr ""
+
+#: functions.php:258 inc/widgets/course-search-widget.php:10
+#: inc/widgets/course-search-widget.php:34
+msgid "Search Course"
+msgstr ""
+
+#: functions.php:260
+msgid "Search Course Listing Page Sidebar"
+msgstr ""
+
+#: functions.php:270
+msgid "Blog Author"
+msgstr ""
+
+#: functions.php:272
+msgid "Blog Author Page Sidebar"
+msgstr ""
+
+#: functions.php:279
+msgid "Blog Listing"
+msgstr ""
+
+#: functions.php:281
+msgid "Blog Listing Page Sidebar"
+msgstr ""
+
+#: functions.php:288
+msgid "Blog Detail"
+msgstr ""
+
+#: functions.php:290
+msgid "Blog Detail Page Sidebar"
+msgstr ""
+
+#: functions.php:299 inc/theme-options/event-options.php:17
+msgid "Event Listing"
+msgstr ""
+
+#: functions.php:301
+msgid "Event Listing Page Sidebar"
+msgstr ""
+
+#: functions.php:310 inc/theme-options/event-options.php:68
+msgid "Event Detail"
+msgstr ""
+
+#: functions.php:312
+msgid "Event Detail Page Sidebar"
+msgstr ""
+
+#: functions.php:322
+msgid "Course Instructor"
+msgstr ""
+
+#: functions.php:324
+msgid "Course Instructor Page Sidebar"
+msgstr ""
+
+#: functions.php:332 inc/theme-options/course-options.php:17
+msgid "Course Listing"
+msgstr ""
+
+#: functions.php:334
+msgid "Course Listing Page Sidebar"
+msgstr ""
+
+#: functions.php:342 inc/theme-options/course-options.php:175
+msgid "Course Detail"
+msgstr ""
+
+#: functions.php:344
+msgid "Course Detail Page Sidebar"
+msgstr ""
+
+#: functions.php:353
+msgid "Instructor Listing"
+msgstr ""
+
+#: functions.php:355
+msgid "Instructor Listing Page Sidebar"
+msgstr ""
+
+#: functions.php:364
+msgid "Footer First Column"
+msgstr ""
+
+#: functions.php:366
+msgid "Footer First Column Sidebar"
+msgstr ""
+
+#: functions.php:373
+msgid "Footer Second Column"
+msgstr ""
+
+#: functions.php:375
+msgid "Footer Second Column Sidebar"
+msgstr ""
+
+#: functions.php:382
+msgid "Footer Third Column"
+msgstr ""
+
+#: functions.php:384
+msgid "Footer Third Column Sidebar"
+msgstr ""
+
+#: functions.php:391
+msgid "Footer Forth Column"
+msgstr ""
+
+#: functions.php:393
+msgid "Footer Forth Column Sidebar"
+msgstr ""
+
+#: functions.php:448
+msgid "You have already deleted this course from wishlist."
+msgstr ""
+
+#: functions.php:449
+msgid "Deleted"
+msgstr ""
+
+#: functions.php:450
+msgid "Sorry, there was a problem processing your request."
+msgstr ""
+
+#: functions.php:843 inc/template-tags.php:153
+msgid "ago"
+msgstr ""
+
+#: functions.php:1175
+msgid "need at least two characters"
+msgstr ""
+
+#: functions.php:1253
+msgid "View your cart"
+msgstr ""
+
+#: functions.php:1331
+msgid "The cart is disabled."
+msgstr ""
+
+#: functions.php:1333
+#, php-format
+msgid "There are no items in your cart - <a href=\"%s\">go add some</a> !"
+msgstr ""
+
+#: header-home-one.php:43 header-home-three.php:43 header-home-two.php:43
+#: header-shop.php:43 header.php:43
+msgid "Skip to content"
+msgstr ""
+
+#: inc/Tax-meta-class/Tax-meta-class.php:381
+#: inc/Tax-meta-class/Tax-meta-class.php:428
+#: page-templates/tpl-wishlist-course.php:142
+msgid "Remove"
+msgstr ""
+
+#: inc/Tax-meta-class/Tax-meta-class.php:394
+msgid "Add"
+msgstr ""
+
+#: inc/Tax-meta-class/Tax-meta-class.php:727
+msgid "Remove Image"
+msgstr ""
+
+#: inc/Tax-meta-class/Tax-meta-class.php:729
+msgid "Upload Image"
+msgstr ""
+
+#: inc/meta-boxes/config.php:36 inc/meta-boxes/config.php:45
+msgid "Video Embed Code"
+msgstr ""
+
+#: inc/meta-boxes/config.php:46
+msgid ""
+"If you are not using self hosted videos then please provide the video embed "
+"code and remove the width and height attributes."
+msgstr ""
+
+#: inc/meta-boxes/config.php:60 inc/meta-boxes/config.php:69
+msgid "Audio Embed Code"
+msgstr ""
+
+#: inc/meta-boxes/config.php:70
+msgid ""
+"If you are not using self hosted audios then please provide the audio embed "
+"code (soundcloud.com) and remove the width and height attributes."
+msgstr ""
+
+#: inc/meta-boxes/config.php:86
+msgid "Quote"
+msgstr ""
+
+#: inc/meta-boxes/config.php:95
+msgid "Quote Text"
+msgstr ""
+
+#: inc/meta-boxes/config.php:96
+msgid "Please add quote"
+msgstr ""
+
+#: inc/meta-boxes/config.php:110 inc/meta-boxes/config.php:331
+#: inc/meta-boxes/config.php:337
+msgid "Gallery Images"
+msgstr ""
+
+#: inc/meta-boxes/config.php:119
+msgid "Upload Gallery Images"
+msgstr ""
+
+#: inc/meta-boxes/config.php:121
+msgid ""
+"Images should have minimum width of 750px and minimum height of 330px "
+"(900X420), Bigger size images will be cropped automatically."
+msgstr ""
+
+#: inc/meta-boxes/config.php:133
+msgid "Contact Page Information"
+msgstr ""
+
+#: inc/meta-boxes/config.php:139 inc/theme-options/google-map-options.php:9
+msgid "Google Map"
+msgstr ""
+
+#: inc/meta-boxes/config.php:143
+msgid "Contact Details"
+msgstr ""
+
+#: inc/meta-boxes/config.php:147
+msgid "Customer Support"
+msgstr ""
+
+#: inc/meta-boxes/config.php:151
+msgid "Questoins"
+msgstr ""
+
+#: inc/meta-boxes/config.php:164
+msgid "Office Address"
+msgstr ""
+
+#: inc/meta-boxes/config.php:165
+msgid "Leaving it empty will hide the google map."
+msgstr ""
+
+#: inc/meta-boxes/config.php:173
+msgid "Office Location"
+msgstr ""
+
+#: inc/meta-boxes/config.php:184
+msgid "Map Zoom Level"
+msgstr ""
+
+#: inc/meta-boxes/config.php:185
+msgid "Zoom level for resulted map on contact page."
+msgstr ""
+
+#: inc/meta-boxes/config.php:197 inc/meta-boxes/config.php:243
+#: inc/meta-boxes/config.php:263
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:36
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:61
+#: inc/page-builder-widget/aboutus-meet-our-teachers/aboutus-meet-our-teachers.php:36
+#: inc/page-builder-widget/aboutus-partnering-with-us/aboutus-partnering-with-us.php:36
+#: inc/page-builder-widget/aboutus-partnering-with-us/aboutus-partnering-with-us.php:51
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:45
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:52
+#: inc/page-builder-widget/home-one-search-by-category/home-one-search-by-category.php:43
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:35
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:79
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:36
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:61
+#: inc/page-builder-widget/home-three-browse-by-category/home-three-browse-by-category.php:48
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:51
+#: inc/page-builder-widget/home-three-why-choose/home-three-why-choose.php:36
+#: inc/page-builder-widget/home-three-why-choose/home-three-why-choose.php:61
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:48
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:36
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:72
+#: inc/theme-options/blog-options.php:37
+#: inc/theme-options/coming-soon-options.php:36
+#: inc/theme-options/header-options.php:149
+#: inc/theme-options/newsletter-options.php:27
+msgid "Title"
+msgstr ""
+
+#: inc/meta-boxes/config.php:204
+msgid "Office Address to Display"
+msgstr ""
+
+#: inc/meta-boxes/config.php:205
+msgid "Given address will be displayed on contact page."
+msgstr ""
+
+#: inc/meta-boxes/config.php:211
+msgid "Email to Display"
+msgstr ""
+
+#: inc/meta-boxes/config.php:212
+msgid "Given email address will be displayed on contact page."
+msgstr ""
+
+#: inc/meta-boxes/config.php:219 inc/meta-boxes/config.php:492
+#: inc/theme-options/social-share-options.php:23
+#: inc/util/basic-functions.php:271
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/meta-boxes/config.php:225 inc/meta-boxes/config.php:510
+#: inc/theme-options/social-share-options.php:31
+#: inc/util/basic-functions.php:273
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/meta-boxes/config.php:231 inc/meta-boxes/config.php:498
+#: inc/theme-options/social-share-options.php:15
+#: inc/util/basic-functions.php:272
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/meta-boxes/config.php:237 inc/util/basic-functions.php:274
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/meta-boxes/config.php:250
+msgid "Support Phone No."
+msgstr ""
+
+#: inc/meta-boxes/config.php:256
+msgid "Support Email ID"
+msgstr ""
+
+#: inc/meta-boxes/config.php:257
+msgid ""
+"Given email address will be displayed for customer support on contact page."
+msgstr ""
+
+#: inc/meta-boxes/config.php:270
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:41
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:65
+#: inc/page-builder-widget/aboutus-partnering-with-us/aboutus-partnering-with-us.php:55
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:87
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:65
+#: inc/page-builder-widget/home-three-why-choose/home-three-why-choose.php:65
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:80
+#: inc/theme-options/coming-soon-options.php:45
+#: inc/theme-options/course-options.php:250
+#: inc/theme-options/newsletter-options.php:35
+#: template-parts/content-course-overview.php:232
+msgid "Description"
+msgstr ""
+
+#: inc/meta-boxes/config.php:277
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:81
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:85
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:95
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:84
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:81
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:88
+msgid "Button Text"
+msgstr ""
+
+#: inc/meta-boxes/config.php:284
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:86
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:69
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:90
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:89
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:86
+msgid "Button URL"
+msgstr ""
+
+#: inc/meta-boxes/config.php:302
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/meta-boxes/config.php:311
+msgid "Banner Image"
+msgstr ""
+
+#: inc/meta-boxes/config.php:339
+msgid ""
+"Gallery image should have minimum width of 1024px and minimum height of "
+"768px OR (800X600 pix).  Bigger size images will be cropped automatically."
+msgstr ""
+
+#: inc/meta-boxes/config.php:350
+msgid "Instructors Settings"
+msgstr ""
+
+#: inc/meta-boxes/config.php:359
+msgid "Instructors Per Page"
+msgstr ""
+
+#: inc/meta-boxes/config.php:361
+msgid "Number of instructors you want to display on per page"
+msgstr ""
+
+#: inc/meta-boxes/config.php:368
+msgid "Order Instructors By"
+msgstr ""
+
+#: inc/meta-boxes/config.php:370
+msgid "Order by Instructors display name"
+msgstr ""
+
+#: inc/meta-boxes/config.php:371
+msgid "Order by Instructors registered date"
+msgstr ""
+
+#: inc/meta-boxes/config.php:374
+msgid "Select Instructors Order By"
+msgstr ""
+
+#: inc/meta-boxes/config.php:379
+#: inc/page-builder-widget/aboutus-meet-our-teachers/aboutus-meet-our-teachers.php:50
+msgid "Order"
+msgstr ""
+
+#: inc/meta-boxes/config.php:381
+#: inc/page-builder-widget/aboutus-meet-our-teachers/aboutus-meet-our-teachers.php:53
+msgid "Ascending"
+msgstr ""
+
+#: inc/meta-boxes/config.php:382
+#: inc/page-builder-widget/aboutus-meet-our-teachers/aboutus-meet-our-teachers.php:54
+msgid "Descending"
+msgstr ""
+
+#: inc/meta-boxes/config.php:385
+msgid "Select Instructors Order"
+msgstr ""
+
+#: inc/meta-boxes/config.php:390
+#: inc/page-builder-widget/home-one-instructor-week/home-one-instructor-week.php:40
+msgid "Display Phone"
+msgstr ""
+
+#: inc/meta-boxes/config.php:392 inc/meta-boxes/config.php:402
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:42
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:55
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:68
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:40
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:155
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:43
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:56
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:69
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:42
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:148
+#: inc/theme-options/styles-options/basic-styles-options.php:27
+#: inc/theme-options/styles-options/header-styles-options.php:22
+msgid "Yes"
+msgstr ""
+
+#: inc/meta-boxes/config.php:393 inc/meta-boxes/config.php:403
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:43
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:56
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:69
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:41
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:156
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:44
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:57
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:70
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:43
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:149
+#: inc/theme-options/styles-options/basic-styles-options.php:28
+#: inc/theme-options/styles-options/header-styles-options.php:23
+msgid "No"
+msgstr ""
+
+#: inc/meta-boxes/config.php:400
+#: inc/page-builder-widget/home-one-instructor-week/home-one-instructor-week.php:45
+msgid "Display Email"
+msgstr ""
+
+#: inc/meta-boxes/config.php:414
+msgid "Testimonials Information"
+msgstr ""
+
+#: inc/meta-boxes/config.php:420
+msgid "Website URL"
+msgstr ""
+
+#: inc/meta-boxes/config.php:422
+msgid "Provide website URL"
+msgstr ""
+
+#: inc/meta-boxes/config.php:427
+msgid "Job Designation"
+msgstr ""
+
+#: inc/meta-boxes/config.php:428
+msgid "Provide designation for testimonial"
+msgstr ""
+
+#: inc/meta-boxes/config.php:441
+msgid "Events Information"
+msgstr ""
+
+#: inc/meta-boxes/config.php:447
+msgid "Event Start Date And Time"
+msgstr ""
+
+#: inc/meta-boxes/config.php:450
+msgid "Provide event start date and time"
+msgstr ""
+
+#: inc/meta-boxes/config.php:458
+msgid "Event End Date And Time"
+msgstr ""
+
+#: inc/meta-boxes/config.php:461
+msgid "Provide event end date and time"
+msgstr ""
+
+#: inc/meta-boxes/config.php:468
+msgid "Join Now URL"
+msgstr ""
+
+#: inc/meta-boxes/config.php:470
+msgid "Provide Join Now URL"
+msgstr ""
+
+#: inc/meta-boxes/config.php:475
+msgid "Event Location"
+msgstr ""
+
+#: inc/meta-boxes/config.php:476
+msgid "Provide Event Location"
+msgstr ""
+
+#: inc/meta-boxes/config.php:483
+msgid "Location Map"
+msgstr ""
+
+#: inc/meta-boxes/config.php:494
+msgid "Provide Facebook URL"
+msgstr ""
+
+#: inc/meta-boxes/config.php:500
+msgid "Provide Twitter URL"
+msgstr ""
+
+#: inc/meta-boxes/config.php:504 inc/theme-options/social-share-options.php:39
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/meta-boxes/config.php:506
+msgid "Provide Linkedin URL"
+msgstr ""
+
+#: inc/meta-boxes/config.php:512
+msgid "Provide Google Plus URL"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:20
+msgid "About Us Page How It Works"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:24
+msgid "About Us page How It Works."
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:37
+msgid "How It Works?"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:47
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:74
+msgid "Features"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:48
+msgid "feature"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:57
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:88
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:57
+#: inc/page-builder-widget/home-three-why-choose/home-three-why-choose.php:57
+#: inc/tax-meta.php:45
+msgid "Icon"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:69
+#: inc/tax-meta.php:43 inc/theme-options/header-options.php:286
+#: inc/theme-options/newsletter-options.php:69
+msgid "Background Color"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:76
+msgid "Text Before Button"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:77
+msgid "Want to Start Learning Online Today?"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-how-it-works/aboutus-how-it-works.php:82
+msgid "Sign Up Today"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-meet-our-teachers/aboutus-meet-our-teachers.php:20
+msgid "About Us Page Meet Our Teachers"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-meet-our-teachers/aboutus-meet-our-teachers.php:24
+msgid "About Us page Meet Our Teachers."
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-meet-our-teachers/aboutus-meet-our-teachers.php:37
+msgid "Meet Our Teachers"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-meet-our-teachers/aboutus-meet-our-teachers.php:41
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:73
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:72
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:69
+msgid "Order By"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-meet-our-teachers/aboutus-meet-our-teachers.php:44
+msgid "Order by user display name"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-meet-our-teachers/aboutus-meet-our-teachers.php:45
+msgid "Order by user registered date"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-partnering-with-us/aboutus-partnering-with-us.php:20
+msgid "About Us Page Partnering With Us"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-partnering-with-us/aboutus-partnering-with-us.php:24
+msgid "About Us page Partnering With Us."
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-partnering-with-us/aboutus-partnering-with-us.php:37
+msgid "Partnering With Us"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-partnering-with-us/aboutus-partnering-with-us.php:41
+msgid "Partners"
+msgstr ""
+
+#: inc/page-builder-widget/aboutus-partnering-with-us/aboutus-partnering-with-us.php:42
+msgid "partner"
+msgstr ""
+
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:20
+msgid "EducationPress Price Table"
+msgstr ""
+
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:24
+msgid "Educationpress price table."
+msgstr ""
+
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:35
+msgid "Columns"
+msgstr ""
+
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:36
+msgid "column"
+msgstr ""
+
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:49
+msgid "Currency"
+msgstr ""
+
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:53
+msgid "Price"
+msgstr ""
+
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:57
+msgid "Per"
+msgstr ""
+
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:61
+msgid "Subtitle"
+msgstr ""
+
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:65
+msgid "Button text"
+msgstr ""
+
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:75
+msgid "Feature"
+msgstr ""
+
+#: inc/page-builder-widget/edupress-price-table/edupress-price-table.php:84
+msgid "Text"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-free-course-week/home-one-free-course-week.php:20
+msgid "Home Free Course of the Week"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-free-course-week/home-one-free-course-week.php:23
+msgid "Free Course of the Week for home page"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-free-course-week/home-one-free-course-week.php:35
+msgid "Course Title"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-free-course-week/tpl/default.php:42
+#: inc/page-builder-widget/home-two-recent-posts/tpl/default.php:31
+#: template-parts/content-course-overview.php:42
+msgid ". in: "
+msgstr ""
+
+#: inc/page-builder-widget/home-one-instructor-week/home-one-instructor-week.php:20
+msgid "Home Instructor of the Week"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-instructor-week/home-one-instructor-week.php:23
+msgid "Instructor of the Week for home page"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-instructor-week/home-one-instructor-week.php:35
+#: inc/theme-options/course-options.php:273
+msgid "Instructor Title"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-instructor-week/tpl/default.php:54
+#: inc/page-builder-widget/home-one-instructor-week/tpl/default.php:56
+#: page-templates/tpl-our-techers.php:130
+#: page-templates/tpl-our-techers.php:132
+msgid "Phone"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-instructor-week/tpl/default.php:56
+#: page-templates/tpl-our-techers.php:132
+msgid "- Nill -"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-instructor-week/tpl/default.php:66
+#: page-templates/tpl-our-techers.php:140
+msgid "Email me at"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:20
+msgid "Home One Latest News & Updates"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:23
+msgid "Latest News & Updates for home page one"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:38
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:40
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:40
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:40
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:39
+#: inc/widgets/course-cat-filter-widget.php:35
+#: inc/widgets/course-cat-filter-widget.php:46
+#: inc/widgets/recent-course-widget.php:191
+#: inc/widgets/recent-posts-widget.php:131
+msgid "Select Category"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:39
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:41
+msgid "Select Tag"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:48
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:49
+msgid "News Title"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:53
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:54
+msgid "Number of News"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:56
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:57
+#: inc/theme-options/course-options.php:81
+#: inc/theme-options/event-options.php:30
+#: inc/theme-options/search-options.php:19
+msgid "2"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:57
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:60
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:58
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:59
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:56
+#: inc/theme-options/course-options.php:82
+#: inc/theme-options/event-options.php:31
+#: inc/theme-options/search-options.php:20
+msgid "3"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:58
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:59
+#: inc/theme-options/course-options.php:84
+#: inc/theme-options/event-options.php:33
+#: inc/theme-options/search-options.php:22
+msgid "5"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:59
+#: inc/page-builder-widget/home-one-what-people-say/home-one-what-people-say.php:53
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:60
+#: inc/page-builder-widget/home-three-what-people-say/home-three-what-people-say.php:52
+#: inc/page-builder-widget/home-two-what-people-say/home-two-what-people-say.php:52
+#: inc/theme-options/course-options.php:89
+#: inc/theme-options/event-options.php:38
+#: inc/theme-options/search-options.php:27
+msgid "10"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:64
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:65
+msgid "Types Of News Posts"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:67
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:68
+msgid "Recent"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:68
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:69
+msgid "Based On Category"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:69
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:70
+msgid "Based On Tag"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:78
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:79
+msgid "Choose a news category"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-latest-news-updates/home-one-latest-news-updates.php:88
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:89
+msgid "Choose a news tag"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:21
+msgid "Home One Popular Courses"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:24
+msgid "Popular Courses for home page one"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:57
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:56
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:53
+#: inc/widgets/recent-course-widget.php:196
+#: inc/widgets/similar-courses-widget.php:147
+msgid "Number of Courses"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:61
+#: inc/page-builder-widget/home-one-what-people-say/home-one-what-people-say.php:51
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:60
+#: inc/page-builder-widget/home-three-what-people-say/home-three-what-people-say.php:50
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:57
+#: inc/page-builder-widget/home-two-what-people-say/home-two-what-people-say.php:50
+#: inc/theme-options/course-options.php:85
+#: inc/theme-options/event-options.php:34
+#: inc/theme-options/search-options.php:23
+msgid "6"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:62
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:61
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:58
+#: inc/theme-options/course-options.php:88
+#: inc/theme-options/event-options.php:37
+#: inc/theme-options/search-options.php:26
+msgid "9"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:63
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:62
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:59
+#: inc/theme-options/course-options.php:91
+#: inc/theme-options/event-options.php:40
+#: inc/theme-options/search-options.php:29
+msgid "12"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:68
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:67
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:64
+msgid "Choose a course categories"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:76
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:75
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:72
+#: inc/widgets/recent-course-widget.php:202
+#: inc/widgets/recent-event-widget.php:121
+#: inc/widgets/recent-posts-widget.php:142
+#: inc/widgets/similar-courses-widget.php:153
+msgid "Most Recent"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:77
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:76
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:73
+#: inc/widgets/recent-course-widget.php:204
+msgid "Popular Course By Enrolled"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:78
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:77
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:74
+#: inc/widgets/recent-course-widget.php:206
+msgid "Popular Course By Ratings"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:79
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:78
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:75
+msgid "Random Order"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-popular-courses/home-one-popular-courses.php:80
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:79
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:76
+#: inc/widgets/recent-course-widget.php:208
+msgid "Order By Title"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-by-category/home-one-search-by-category.php:20
+msgid "Home One Search By Category"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-by-category/home-one-search-by-category.php:24
+msgid "Home page one search by category."
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-by-category/home-one-search-by-category.php:44
+msgid "Search By Category"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-by-category/home-one-search-by-category.php:48
+msgid ""
+"Choose a course categories. You can add short description, background color "
+"and icon for course categories from CoursePress Pro -> Course Categories"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:19
+msgid "Home One Search Form"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:23
+msgid "Home page one search form with icons."
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:36
+msgid "Emerge yourself by learning new Skills"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:40
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:41
+msgid "Enable Search Form"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:53
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:54
+msgid "Enable Search Auto Complete/Suggest"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:66
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:67
+msgid "Enable Icon Under Form"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:79
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:80
+#: inc/theme-options/header-options.php:170
+msgid "1st Icon"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:88
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:89
+#: inc/theme-options/header-options.php:179
+msgid "1st Icon Text"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:89
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:90
+#: inc/theme-options/header-options.php:180
+msgid "Over 5 Million Students Enrolled"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:97
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:98
+#: inc/theme-options/header-options.php:190
+msgid "2nd Icon"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:106
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:107
+#: inc/theme-options/header-options.php:198
+msgid "2nd Icon Text"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:107
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:108
+#: inc/theme-options/header-options.php:199
+msgid "More than 25,000 Online Available Courses"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:115
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:116
+#: inc/theme-options/header-options.php:208
+msgid "3rd Icon"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:124
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:125
+#: inc/theme-options/header-options.php:216
+msgid "3rd Icon Text"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:125
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:126
+#: inc/theme-options/header-options.php:217
+msgid "Learn skills on any Devices anytime"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:133
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:134
+msgid "4th Icon"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:142
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:143
+msgid "4th Icon Text"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/home-one-search-form.php:143
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:144
+msgid "More than 5,000 Instructors Registered"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/tpl/default.php:27
+#: inc/page-builder-widget/home-two-search-form/tpl/default.php:24
+#: partials/header/search-form-three.php:20
+msgid "What do you want to learn today?"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-search-form/tpl/default.php:30
+#: inc/page-builder-widget/home-two-search-form/tpl/default.php:27
+#: inc/theme-options/search-options.php:7
+#: partials/header/search-form-three.php:23 search.php:15
+msgid "Search"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-sepretor/home-one-sepretor.php:19
+msgid "Home Separator"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-sepretor/home-one-sepretor.php:22
+msgid ""
+"Separator for home page to use between search form and serch by category "
+"widget"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-sepretor/home-one-sepretor.php:34
+msgid "Sepretor Text"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:20
+msgid "Home One Slider"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:24
+msgid "Home page one slider."
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:38
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:40
+msgid "Would you like to add tag, title, description and button in slide?"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:54
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:56
+msgid "Slider frames"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:55
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:57
+msgid "Frame"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:65
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:67
+msgid "Slider image"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:70
+msgid "Tagline"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:103
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:96
+msgid "Destination URL"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:111
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:104
+msgid "Open in new window"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:125
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:118
+msgid "Slide Order"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:128
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:121
+msgid "Normal"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:129
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:122
+#: inc/widgets/recent-course-widget.php:203
+#: inc/widgets/recent-event-widget.php:122
+#: inc/widgets/recent-posts-widget.php:143
+#: inc/widgets/similar-courses-widget.php:154
+msgid "Random"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:134
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:127
+msgid "Slider Animation"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:137
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:130
+msgid "Fade"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:138
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:131
+msgid "Slide"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:143
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:136
+msgid "Slider Direction"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:146
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:139
+msgid "Horizontal"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:147
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:140
+msgid "Vertical"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:152
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:145
+msgid "Slider AutoPlay"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:161
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:154
+msgid "Slide Show Speed (In Milliseconds)"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:167
+#: inc/page-builder-widget/home-one-what-people-say/home-one-what-people-say.php:58
+#: inc/page-builder-widget/home-three-what-people-say/home-three-what-people-say.php:57
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:160
+#: inc/page-builder-widget/home-two-what-people-say/home-two-what-people-say.php:57
+msgid "Animation Speed (In Milliseconds)"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:180
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:173
+msgid "Slider Background Color"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:182
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:175
+msgid "Slider Background Color is applied if slider image is transperant"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:190
+msgid "Tagline Color"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:199
+msgid "Tagline Background Color"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:208
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:180
+msgid "Title Text Color"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:217
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:189
+msgid "Description Text Color"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:227
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:199
+msgid "Button Normal Text Color"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:236
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:208
+#: inc/theme-options/styles-options/basic-styles-options.php:135
+msgid "Button Normal Background Color"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:245
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:217
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-slider/home-one-slider.php:254
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:226
+#: inc/theme-options/styles-options/basic-styles-options.php:146
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-upcoming-event/home-one-upcoming-event.php:20
+msgid "Home Upcoming Event"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-upcoming-event/home-one-upcoming-event.php:23
+msgid "Upcoming Event for home page"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-upcoming-event/home-one-upcoming-event.php:35
+msgid "Event Title"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-upcoming-event/tpl/default.php:17
+msgid ". at: "
+msgstr ""
+
+#: inc/page-builder-widget/home-one-what-people-say/home-one-what-people-say.php:20
+msgid "Home One What People Say"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-what-people-say/home-one-what-people-say.php:23
+msgid "What People Say for home page one"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-what-people-say/home-one-what-people-say.php:35
+#: inc/page-builder-widget/home-three-what-people-say/home-three-what-people-say.php:35
+#: inc/page-builder-widget/home-two-what-people-say/home-two-what-people-say.php:35
+msgid "Testimonials Title"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-what-people-say/home-one-what-people-say.php:41
+#: inc/page-builder-widget/home-three-what-people-say/home-three-what-people-say.php:41
+#: inc/page-builder-widget/home-two-what-people-say/home-two-what-people-say.php:41
+msgid "Background Image 1970x658 px"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-what-people-say/home-one-what-people-say.php:47
+#: inc/page-builder-widget/home-three-what-people-say/home-three-what-people-say.php:46
+#: inc/page-builder-widget/home-two-what-people-say/home-two-what-people-say.php:46
+msgid "Number of testimonials to display"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-what-people-say/home-one-what-people-say.php:50
+#: inc/page-builder-widget/home-three-what-people-say/home-three-what-people-say.php:49
+#: inc/page-builder-widget/home-two-what-people-say/home-two-what-people-say.php:49
+#: inc/theme-options/course-options.php:83
+#: inc/theme-options/event-options.php:32
+#: inc/theme-options/search-options.php:21
+msgid "4"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-what-people-say/home-one-what-people-say.php:52
+#: inc/page-builder-widget/home-three-what-people-say/home-three-what-people-say.php:51
+#: inc/page-builder-widget/home-two-what-people-say/home-two-what-people-say.php:51
+#: inc/theme-options/course-options.php:87
+#: inc/theme-options/event-options.php:36
+#: inc/theme-options/search-options.php:25
+msgid "8"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:20
+msgid "Home One Why Should You Choose"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:24
+msgid "Home page one why should you choose."
+msgstr ""
+
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:37
+#: inc/page-builder-widget/home-three-why-choose/home-three-why-choose.php:37
+msgid "Why should you choose EducationPress"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:42
+#: inc/page-builder-widget/home-three-why-choose/home-three-why-choose.php:42
+msgid "Background Image 1970x1323 px"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:47
+#: inc/page-builder-widget/home-three-why-choose/home-three-why-choose.php:47
+msgid "Services"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:48
+#: inc/page-builder-widget/home-three-why-choose/home-three-why-choose.php:48
+msgid "Service"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:72
+msgid "1st Button Text"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:76
+msgid "1st Button URL"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:80
+msgid "2nd Button Text"
+msgstr ""
+
+#: inc/page-builder-widget/home-one-why-choose/home-one-why-choose.php:84
+msgid "2nd Button URL"
+msgstr ""
+
+#: inc/page-builder-widget/home-three-browse-by-category/home-three-browse-by-category.php:21
+msgid "Home Three Browse By Category"
+msgstr ""
+
+#: inc/page-builder-widget/home-three-browse-by-category/home-three-browse-by-category.php:25
+msgid "Home page three browse by category."
+msgstr ""
+
+#: inc/page-builder-widget/home-three-browse-by-category/home-three-browse-by-category.php:49
+msgid "Browse by Category"
+msgstr ""
+
+#: inc/page-builder-widget/home-three-browse-by-category/home-three-browse-by-category.php:53
+msgid ""
+"Choose a course categories. You can select maximum six categories. You can "
+"add short description, background color and icon for course categories from "
+"CoursePress Pro -> Course Categories"
+msgstr ""
+
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:21
+msgid "Home Three Latest News & Updates"
+msgstr ""
+
+#: inc/page-builder-widget/home-three-latest-news-updates/home-three-latest-news-updates.php:24
+msgid "Latest News & Updates for home page three"
+msgstr ""
+
+#: inc/page-builder-widget/home-three-latest-news-updates/tpl/default.php:78
+#: inc/page-builder-widget/home-three-latest-news-updates/tpl/default.php:104
+#: inc/page-builder-widget/home-three-latest-news-updates/tpl/default.php:131
+msgid "by:"
+msgstr ""
+
+#: inc/page-builder-widget/home-three-latest-news-updates/tpl/default.php:78
+#: inc/page-builder-widget/home-three-latest-news-updates/tpl/default.php:104
+#: inc/page-builder-widget/home-three-latest-news-updates/tpl/default.php:131
+msgid ". in:"
+msgstr ""
+
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:21
+msgid "Home Three Popular Courses"
+msgstr ""
+
+#: inc/page-builder-widget/home-three-popular-courses/home-three-popular-courses.php:24
+msgid "Popular Courses for home page three"
+msgstr ""
+
+#: inc/page-builder-widget/home-three-what-people-say/home-three-what-people-say.php:20
+msgid "Home Three Testimonials"
+msgstr ""
+
+#: inc/page-builder-widget/home-three-what-people-say/home-three-what-people-say.php:23
+msgid "Testimonials for home page three"
+msgstr ""
+
+#: inc/page-builder-widget/home-three-why-choose/home-three-why-choose.php:20
+msgid "Home Three Why Should You Choose"
+msgstr ""
+
+#: inc/page-builder-widget/home-three-why-choose/home-three-why-choose.php:24
+msgid "Home page three why should you choose."
+msgstr ""
+
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:20
+msgid "Home Two Popular Courses"
+msgstr ""
+
+#: inc/page-builder-widget/home-two-popular-courses/home-two-popular-courses.php:23
+msgid "Popular Courses for home page two"
+msgstr ""
+
+#: inc/page-builder-widget/home-two-recent-posts/home-two-recent-posts.php:20
+msgid "Home Two Recent post"
+msgstr ""
+
+#: inc/page-builder-widget/home-two-recent-posts/home-two-recent-posts.php:23
+msgid "Recent post for home page two"
+msgstr ""
+
+#: inc/page-builder-widget/home-two-recent-posts/home-two-recent-posts.php:35
+msgid "Recent Post Title"
+msgstr ""
+
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:20
+msgid "Home Two Search Form"
+msgstr ""
+
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:24
+msgid "Home page two search form with icons."
+msgstr ""
+
+#: inc/page-builder-widget/home-two-search-form/home-two-search-form.php:37
+msgid "Learn New Skills"
+msgstr ""
+
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:22
+msgid "Home Two Slider"
+msgstr ""
+
+#: inc/page-builder-widget/home-two-slider/home-two-slider.php:26
+msgid "Home page two slider."
+msgstr ""
+
+#: inc/page-builder-widget/home-two-what-people-say/home-two-what-people-say.php:20
+msgid "Home Two What People Say"
+msgstr ""
+
+#: inc/page-builder-widget/home-two-what-people-say/home-two-what-people-say.php:23
+msgid "What People Say for home page two"
+msgstr ""
+
+#: inc/page-builder-widget/page-builder-widget.php:241
+msgid "linearicons"
+msgstr ""
+
+#: inc/page-builder-widget/page-builder-widget.php:282
+#: inc/page-builder-widget/page-builder-widget.php:1073
+#: inc/page-builder-widget/page-builder-widget.php:1074
+msgid "About Us"
+msgstr ""
+
+#: inc/page-builder-widget/page-builder-widget.php:288
+msgid "Home Page One"
+msgstr ""
+
+#: inc/page-builder-widget/page-builder-widget.php:294
+msgid "Home Page Two"
+msgstr ""
+
+#: inc/page-builder-widget/page-builder-widget.php:300
+msgid "Home Page Three"
+msgstr ""
+
+#: inc/page-builder-widget/page-builder-widget.php:314
+#: inc/page-builder-widget/page-builder-widget.php:315
+msgid "Home Page 1"
+msgstr ""
+
+#: inc/page-builder-widget/page-builder-widget.php:641
+#: inc/page-builder-widget/page-builder-widget.php:642
+msgid "Home Page 2"
+msgstr ""
+
+#: inc/page-builder-widget/page-builder-widget.php:843
+#: inc/page-builder-widget/page-builder-widget.php:844
+msgid "Home Page 3"
+msgstr ""
+
+#: inc/page-builder-widget/page-builder-widget.php:1281
+#: inc/page-builder-widget/page-builder-widget.php:1282
+msgid "Plans And Pricing"
+msgstr ""
+
+#: inc/tax-meta.php:41
+msgid "Short Description"
+msgstr ""
+
+#: inc/tax-meta.php:41
+msgid ""
+"Leave blank if you don't want use short description for category on home "
+"page."
+msgstr ""
+
+#: inc/tax-meta.php:43
+msgid ""
+"Choose background color for the Category <br> Leave blank if you don't want "
+"use background color for category on home page."
+msgstr ""
+
+#: inc/tax-meta.php:45
+msgid ""
+"Choose Icon for the Category 96X96 pixel. <br> Leave blank if you don't want "
+"use icon for category on home page."
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+#: inc/widgets/recent-posts-widget.php:88 single.php:92
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in &quot; %1$s &quot; "
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tags &quot; %1$s &quot;"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:68 inc/template-tags.php:131 inc/template-tags.php:156
+#: template-parts/content-discussion.php:54 template-parts/content-page.php:26
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:131 inc/util/basic-functions.php:18
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:140
+msgid "A"
+msgstr ""
+
+#: inc/template-tags.php:144
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:393
+#: inc/tgm/class-tgm-plugin-activation.php:912
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+#: inc/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#: inc/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+#: inc/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1206
+#: inc/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:7
+msgid "Blog Page"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:10
+msgid "This section contains options for Blog listing and detail."
+msgstr ""
+
+#: inc/theme-options/blog-options.php:19
+#: inc/theme-options/layout-options.php:60
+msgid "Blog Detail Page"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:21
+msgid "This section contains options related to Blog Detail Page"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:27 inc/theme-options/blog-options.php:38
+msgid "Related Posts"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:28
+msgid "Display realted posts"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:29
+msgid "You can enable or disable the realted posts."
+msgstr ""
+
+#: inc/theme-options/blog-options.php:45
+msgid "Type of Related Posts"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:46
+msgid "Choose the type of related posts to display."
+msgstr ""
+
+#: inc/theme-options/blog-options.php:48
+msgid "Based on Category"
+msgstr ""
+
+#: inc/theme-options/blog-options.php:49
+msgid "Based on Tag"
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:7
+#: inc/theme-options/coming-soon-options.php:16
+#: inc/theme-options/coming-soon-options.php:37
+msgid "Coming Soon"
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:10
+msgid "This section contains options for Coming Soon."
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:17
+msgid "You can enable or disable coming soon page."
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:27
+msgid "Background Image"
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:28
+msgid ""
+"Banner image should have minimum width of 1970px and minimum height of "
+"1166px."
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:46
+#: inc/theme-options/newsletter-options.php:36
+msgid "Add description"
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:58
+msgid "Countdown"
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:59
+msgid "You can enable or disable countdown on coming soon page."
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:69
+msgid "Site Live Date"
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:71
+msgid "Click to enter a date"
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:78
+#: inc/theme-options/styles-options/basic-styles-options.php:33
+msgid "Headings Font"
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:79
+#: inc/theme-options/styles-options/basic-styles-options.php:34
+msgid "Select the font for headings."
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:80
+#: inc/theme-options/styles-options/basic-styles-options.php:35
+msgid "Montserrat is default font."
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:101
+#: inc/theme-options/styles-options/basic-styles-options.php:55
+msgid "Text Font"
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:102
+#: inc/theme-options/styles-options/basic-styles-options.php:56
+msgid "Select the font for body text."
+msgstr ""
+
+#: inc/theme-options/coming-soon-options.php:103
+#: inc/theme-options/styles-options/basic-styles-options.php:57
+msgid "Open Sans is default font."
+msgstr ""
+
+#: inc/theme-options/course-options.php:7
+#: inc/widgets/recent-course-widget.php:10
+msgid "Courses"
+msgstr ""
+
+#: inc/theme-options/course-options.php:10
+msgid "This section contains options for courses."
+msgstr ""
+
+#: inc/theme-options/course-options.php:19
+msgid "This section contains options related to Course Listing"
+msgstr ""
+
+#: inc/theme-options/course-options.php:26
+msgid "Default Grid/List Mode"
+msgstr ""
+
+#: inc/theme-options/course-options.php:29
+msgid "Grid View"
+msgstr ""
+
+#: inc/theme-options/course-options.php:33
+msgid "List View"
+msgstr ""
+
+#: inc/theme-options/course-options.php:46
+msgid "Courses Grid Mode"
+msgstr ""
+
+#: inc/theme-options/course-options.php:48
+msgid ""
+"Columns of courses display in grid row. Course listing full width layout "
+"will not work with 2 columns."
+msgstr ""
+
+#: inc/theme-options/course-options.php:51
+msgid "2 Columns"
+msgstr ""
+
+#: inc/theme-options/course-options.php:60
+msgid "3 Columns"
+msgstr ""
+
+#: inc/theme-options/course-options.php:78
+#: inc/theme-options/search-options.php:16
+msgid "Number of Courses Per Page"
+msgstr ""
+
+#: inc/theme-options/course-options.php:80
+#: inc/theme-options/event-options.php:29
+#: inc/theme-options/search-options.php:18
+msgid "1"
+msgstr ""
+
+#: inc/theme-options/course-options.php:86
+#: inc/theme-options/event-options.php:35
+#: inc/theme-options/search-options.php:24
+msgid "7"
+msgstr ""
+
+#: inc/theme-options/course-options.php:90
+#: inc/theme-options/event-options.php:39
+#: inc/theme-options/search-options.php:28
+msgid "11"
+msgstr ""
+
+#: inc/theme-options/course-options.php:99
+#: inc/theme-options/course-options.php:184
+#: inc/theme-options/search-options.php:37
+msgid "Display Instructor Name"
+msgstr ""
+
+#: inc/theme-options/course-options.php:106
+#: inc/theme-options/course-options.php:191
+#: inc/theme-options/search-options.php:44
+msgid "Display Categories"
+msgstr ""
+
+#: inc/theme-options/course-options.php:114
+#: inc/theme-options/search-options.php:52
+msgid "Display Number of Enroll"
+msgstr ""
+
+#: inc/theme-options/course-options.php:121
+#: inc/theme-options/course-options.php:201
+#: inc/theme-options/search-options.php:59
+msgid "Display Star Ratting"
+msgstr ""
+
+#: inc/theme-options/course-options.php:129
+#: inc/theme-options/search-options.php:67
+msgid "Display Price"
+msgstr ""
+
+#: inc/theme-options/course-options.php:137
+#: inc/theme-options/search-options.php:75
+msgid "Display Sale Label"
+msgstr ""
+
+#: inc/theme-options/course-options.php:144
+#: inc/theme-options/search-options.php:82
+msgid "Display Sorting Dropdown"
+msgstr ""
+
+#: inc/theme-options/course-options.php:151
+#: inc/theme-options/search-options.php:89
+msgid "Default Order of Courses"
+msgstr ""
+
+#: inc/theme-options/course-options.php:152
+#: inc/theme-options/search-options.php:90
+msgid "For ratings sorting you need to active Rich Reviews Plugin."
+msgstr ""
+
+#: inc/theme-options/course-options.php:154
+#: inc/theme-options/search-options.php:92
+msgid "Popularity By Enrolled"
+msgstr ""
+
+#: inc/theme-options/course-options.php:155
+#: inc/theme-options/search-options.php:93 inc/util/basic-functions.php:443
+msgid "Ratings"
+msgstr ""
+
+#: inc/theme-options/course-options.php:156
+#: inc/theme-options/search-options.php:94 inc/util/basic-functions.php:445
+msgid "Newest"
+msgstr ""
+
+#: inc/theme-options/course-options.php:157
+#: inc/theme-options/search-options.php:95 inc/util/basic-functions.php:446
+msgid "Oldest"
+msgstr ""
+
+#: inc/theme-options/course-options.php:158
+#: inc/theme-options/search-options.php:96 inc/util/basic-functions.php:447
+msgid "Name (A-Z)"
+msgstr ""
+
+#: inc/theme-options/course-options.php:159
+#: inc/theme-options/search-options.php:97 inc/util/basic-functions.php:448
+msgid "Name (Z-A)"
+msgstr ""
+
+#: inc/theme-options/course-options.php:160
+#: inc/theme-options/search-options.php:98 inc/util/basic-functions.php:449
+msgid "Price Low To High"
+msgstr ""
+
+#: inc/theme-options/course-options.php:161
+#: inc/theme-options/search-options.php:99 inc/util/basic-functions.php:450
+msgid "Price High To Low"
+msgstr ""
+
+#: inc/theme-options/course-options.php:177
+msgid "This section contains options related to Course Detail"
+msgstr ""
+
+#: inc/theme-options/course-options.php:209
+msgid "Allow Wishlist Course"
+msgstr ""
+
+#: inc/theme-options/course-options.php:217
+msgid "Add Social Sharing Icon"
+msgstr ""
+
+#: inc/theme-options/course-options.php:225
+msgid "Allow Review and Rating"
+msgstr ""
+
+#: inc/theme-options/course-options.php:226
+msgid ""
+"User can submit review and ratting on course but you need to active Rich "
+"Reviews Plugin."
+msgstr ""
+
+#: inc/theme-options/course-options.php:233
+msgid "Allow Details With Tab"
+msgstr ""
+
+#: inc/theme-options/course-options.php:234
+msgid "User will see all course details in tabbed format"
+msgstr ""
+
+#: inc/theme-options/course-options.php:251
+#: inc/theme-options/course-options.php:268
+#: template-parts/content-course-overview.php:233
+msgid "Curriculum"
+msgstr ""
+
+#: inc/theme-options/course-options.php:252
+#: inc/theme-options/course-options.php:274
+#: template-parts/content-course-overview.php:234
+msgid "About Instructor"
+msgstr ""
+
+#: inc/theme-options/course-options.php:253
+#: inc/theme-options/course-options.php:280
+#: template-parts/content-course-overview.php:235
+msgid "Reviews"
+msgstr ""
+
+#: inc/theme-options/course-options.php:261
+msgid "Description Title"
+msgstr ""
+
+#: inc/theme-options/course-options.php:262
+msgid "Course Description"
+msgstr ""
+
+#: inc/theme-options/course-options.php:267
+msgid "Curriculum Title"
+msgstr ""
+
+#: inc/theme-options/course-options.php:279
+msgid "Reviews Title"
+msgstr ""
+
+#: inc/theme-options/event-options.php:7
+msgid "Events"
+msgstr ""
+
+#: inc/theme-options/event-options.php:10
+msgid "This section contains options for events."
+msgstr ""
+
+#: inc/theme-options/event-options.php:19
+msgid "This section contains options related to Event Listing"
+msgstr ""
+
+#: inc/theme-options/event-options.php:27
+msgid "Number of Events Per Page"
+msgstr ""
+
+#: inc/theme-options/event-options.php:48
+msgid "Display Event Time"
+msgstr ""
+
+#: inc/theme-options/event-options.php:55
+msgid "Display Event Location"
+msgstr ""
+
+#: inc/theme-options/event-options.php:70
+msgid "This section contains options related to Event Detail"
+msgstr ""
+
+#: inc/theme-options/event-options.php:77
+msgid "Display Countdown"
+msgstr ""
+
+#: inc/theme-options/event-options.php:84
+msgid "Display Location Map"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:7
+#: inc/theme-options/styles-options/footer-styles-options.php:8
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:10
+msgid "This section contains options for footer."
+msgstr ""
+
+#: inc/theme-options/footer-options.php:15
+msgid "Footer Column"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:16
+msgid "Choose the Footer Column layout."
+msgstr ""
+
+#: inc/theme-options/footer-options.php:18
+msgid "Column 1"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:19
+msgid "Column 2"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:20
+msgid "Column 3"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:21
+msgid "Column 4"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:28
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:29
+#: inc/theme-options/footer-options.php:47
+msgid "Allowed html tags are a, br, em and strong."
+msgstr ""
+
+#: inc/theme-options/footer-options.php:31
+msgid "&copy; Copyright 2016 All rights reserved by EducationPress"
+msgstr ""
+
+#: inc/theme-options/footer-options.php:46
+msgid "Footer Developed By Text"
+msgstr ""
+
+#: inc/theme-options/google-map-options.php:12
+msgid "This section contains options for google map."
+msgstr ""
+
+#: inc/theme-options/google-map-options.php:18
+msgid "Google Map API Key"
+msgstr ""
+
+#: inc/theme-options/header-options.php:7
+#: inc/theme-options/styles-options/header-styles-options.php:8
+msgid "Header"
+msgstr ""
+
+#: inc/theme-options/header-options.php:10
+msgid "This section contains options for header."
+msgstr ""
+
+#: inc/theme-options/header-options.php:17
+msgid "Favicon"
+msgstr ""
+
+#: inc/theme-options/header-options.php:18
+msgid "Upload your website favicon."
+msgstr ""
+
+#: inc/theme-options/header-options.php:24
+msgid "Logo"
+msgstr ""
+
+#: inc/theme-options/header-options.php:25
+msgid ""
+"Upload logo image for your Website. Otherwise site title will be displayed "
+"in place of logo."
+msgstr ""
+
+#: inc/theme-options/header-options.php:31
+msgid "Header Variation"
+msgstr ""
+
+#: inc/theme-options/header-options.php:32
+msgid "Select the header that you want to use for site."
+msgstr ""
+
+#: inc/theme-options/header-options.php:35
+msgid "1st Header"
+msgstr ""
+
+#: inc/theme-options/header-options.php:39
+msgid "2nd Header"
+msgstr ""
+
+#: inc/theme-options/header-options.php:43
+msgid "3rd Header"
+msgstr ""
+
+#: inc/theme-options/header-options.php:52
+msgid "Header Meta Login Links"
+msgstr ""
+
+#: inc/theme-options/header-options.php:53
+msgid "Please on/off header meta login links"
+msgstr ""
+
+#: inc/theme-options/header-options.php:63
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/theme-options/header-options.php:64
+msgid "Please on/off header sticky"
+msgstr ""
+
+#: inc/theme-options/header-options.php:73
+msgid "Main Menu Variation"
+msgstr ""
+
+#: inc/theme-options/header-options.php:74
+msgid "Select the menu variation that you want to use for site main menu."
+msgstr ""
+
+#: inc/theme-options/header-options.php:75
+msgid ""
+"If you have selected header variation 3, Header Sticky will be applicable to "
+"inner pages."
+msgstr ""
+
+#: inc/theme-options/header-options.php:78
+msgid "1st Variation"
+msgstr ""
+
+#: inc/theme-options/header-options.php:82
+msgid "2nd Variation"
+msgstr ""
+
+#: inc/theme-options/header-options.php:94
+msgid "Call Us or Social Media Icons"
+msgstr ""
+
+#: inc/theme-options/header-options.php:95
+msgid "Choose the information to display in header."
+msgstr ""
+
+#: inc/theme-options/header-options.php:97
+#: partials/header/header-meta-one.php:25
+#: partials/header/header-meta-two.php:26
+msgid "Call Us"
+msgstr ""
+
+#: inc/theme-options/header-options.php:98
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/theme-options/header-options.php:107
+msgid "Phone Number"
+msgstr ""
+
+#: inc/theme-options/header-options.php:115
+msgid "Header Title Slug"
+msgstr ""
+
+#: inc/theme-options/header-options.php:123
+msgid "Header Background Image"
+msgstr ""
+
+#: inc/theme-options/header-options.php:124
+msgid "Upload background image 1970x1070 px"
+msgstr ""
+
+#: inc/theme-options/header-options.php:131
+msgid "Logo For 3rd Header Variation"
+msgstr ""
+
+#: inc/theme-options/header-options.php:132
+msgid ""
+"Upload logo image for your 3rd header variation. It will display only on "
+"home page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:138
+msgid "Search Form"
+msgstr ""
+
+#: inc/theme-options/header-options.php:139
+msgid "Add the search form."
+msgstr ""
+
+#: inc/theme-options/header-options.php:140
+msgid "You can enable or disable the search form."
+msgstr ""
+
+#: inc/theme-options/header-options.php:150
+msgid "Make your future by Learning new Skills"
+msgstr ""
+
+#: inc/theme-options/header-options.php:157
+msgid "Icons"
+msgstr ""
+
+#: inc/theme-options/header-options.php:158
+msgid "Add icons below the search form."
+msgstr ""
+
+#: inc/theme-options/header-options.php:159
+msgid "You can enable or disable icons below the search form."
+msgstr ""
+
+#: inc/theme-options/header-options.php:172
+#: inc/theme-options/header-options.php:191
+#: inc/theme-options/header-options.php:209
+msgid "Here's a list of all the Font Awesome &  Linear Icons by name and icon."
+msgstr ""
+
+#: inc/theme-options/header-options.php:224
+msgid "Page Loader"
+msgstr ""
+
+#: inc/theme-options/header-options.php:225
+msgid "You can enable or disable page loader."
+msgstr ""
+
+#: inc/theme-options/header-options.php:227
+#: inc/theme-options/header-options.php:244
+msgid "Enable"
+msgstr ""
+
+#: inc/theme-options/header-options.php:228
+#: inc/theme-options/header-options.php:245
+msgid "Disable"
+msgstr ""
+
+#: inc/theme-options/header-options.php:234
+msgid "Page Loader Gif"
+msgstr ""
+
+#: inc/theme-options/header-options.php:235
+msgid ""
+"You can upload your page loader gif here or default one will be displayed."
+msgstr ""
+
+#: inc/theme-options/header-options.php:241
+msgid "Scroll Top Button"
+msgstr ""
+
+#: inc/theme-options/header-options.php:242
+msgid "You can enable or disable scroll top button."
+msgstr ""
+
+#: inc/theme-options/header-options.php:250
+msgid "Quick JavaScript"
+msgstr ""
+
+#: inc/theme-options/header-options.php:251
+msgid ""
+"You can paste your JavaScript code here without script tag just only code."
+msgstr ""
+
+#: inc/theme-options/header-options.php:263
+msgid "Header Top Banner"
+msgstr ""
+
+#: inc/theme-options/header-options.php:265
+msgid "This section contains options related to Header Top Banner"
+msgstr ""
+
+#: inc/theme-options/header-options.php:271
+msgid "Top Banner"
+msgstr ""
+
+#: inc/theme-options/header-options.php:272
+msgid "Display top banner image in header"
+msgstr ""
+
+#: inc/theme-options/header-options.php:273
+msgid "You can enable or disable top banner."
+msgstr ""
+
+#: inc/theme-options/header-options.php:282
+msgid "Banner image will replaced with this color."
+msgstr ""
+
+#: inc/theme-options/header-options.php:297
+#: inc/theme-options/newsletter-options.php:92
+#: inc/theme-options/styles-options/basic-styles-options.php:88
+msgid "Text Color"
+msgstr ""
+
+#: inc/theme-options/header-options.php:307
+msgid "Top Banner Enabled."
+msgstr ""
+
+#: inc/theme-options/header-options.php:308
+msgid ""
+"You can upload banner image for specific page from add/edit page screen and "
+"below theme option page. Banner image should have <strong>minimum width of "
+"1970px and minimum height of 810px.</strong>"
+msgstr ""
+
+#: inc/theme-options/header-options.php:317
+msgid "Top Banner Disabled."
+msgstr ""
+
+#: inc/theme-options/header-options.php:318
+msgid "It will replace banner image with above background color for all pages."
+msgstr ""
+
+#: inc/theme-options/header-options.php:325
+msgid "404 Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:333
+#: inc/theme-options/layout-options.php:17
+msgid "Blog Author Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:341
+#: inc/theme-options/layout-options.php:38
+msgid "Blog Listing Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:349
+#: inc/theme-options/layout-options.php:82
+msgid "Search Blog Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:358
+#: inc/theme-options/layout-options.php:104
+msgid "Search Course Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:366
+#: inc/theme-options/layout-options.php:126
+msgid "Course Instructor Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:374
+#: inc/theme-options/layout-options.php:148
+msgid "Course Listing Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:382
+msgid "Course Unit Listing Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:390
+msgid "Course Unit Grade Listing Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:398
+msgid "Course Unit Detail Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:407
+msgid "Course Notifications Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:414
+msgid "Course Discussions Listing Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:421
+msgid "Course Discussions Detail Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:429
+msgid "Course Workbook Page"
+msgstr ""
+
+#: inc/theme-options/header-options.php:437
+#: inc/theme-options/layout-options.php:229
+msgid "Event Listing Page"
+msgstr ""
+
+#: inc/theme-options/layout-options.php:7
+msgid "Layouts"
+msgstr ""
+
+#: inc/theme-options/layout-options.php:10
+msgid ""
+"This section contains options for page layouts. Select main content and "
+"sidebar alignment. Choose between 1 or 2 column layout."
+msgstr ""
+
+#: inc/theme-options/layout-options.php:149
+msgid "Courses grid mode 2 column will not work with full width layout."
+msgstr ""
+
+#: inc/theme-options/layout-options.php:187
+msgid "Course Detail Page"
+msgstr ""
+
+#: inc/theme-options/layout-options.php:205
+msgid "Instructor Listing Page"
+msgstr ""
+
+#: inc/theme-options/layout-options.php:251
+msgid "Event Detail Page"
+msgstr ""
+
+#: inc/theme-options/newsletter-options.php:7
+#: inc/theme-options/newsletter-options.php:16
+msgid "Newsletter"
+msgstr ""
+
+#: inc/theme-options/newsletter-options.php:10
+msgid "This section contains options for Newsletter."
+msgstr ""
+
+#: inc/theme-options/newsletter-options.php:17
+msgid "Add newsletter sign up form before footer."
+msgstr ""
+
+#: inc/theme-options/newsletter-options.php:18
+msgid "You can enable or disable newsletter form."
+msgstr ""
+
+#: inc/theme-options/newsletter-options.php:28
+msgid "Signup for Newsletter"
+msgstr ""
+
+#: inc/theme-options/newsletter-options.php:48
+#, php-format
+msgid ""
+"MailChimp for WP Plugin must be <a href=\"%1$s\" target=\"_blank\">activated "
+"and setuped</a> then you can get shortcode <a href=\"%2$s\" target=\"_blank"
+"\">Click Here</a> to get shortcode."
+msgstr ""
+
+#: inc/theme-options/newsletter-options.php:50
+msgid "MailChimp Plugin Shortcode "
+msgstr ""
+
+#: inc/theme-options/newsletter-options.php:56
+msgid "Change Color Scheme?"
+msgstr ""
+
+#: inc/theme-options/newsletter-options.php:81
+msgid "Title Color"
+msgstr ""
+
+#: inc/theme-options/newsletter-options.php:104
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/theme-options/newsletter-options.php:116
+msgid "Icon Color"
+msgstr ""
+
+#: inc/theme-options/options-config.php:38
+#: inc/theme-options/options-config.php:39
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme-options/options-config.php:345
+msgid ""
+"This option will affects other options. This action effects on Course "
+"Listing/Courses Grid Mode and Layouts/Course Listing Page.  Would you like "
+"to proceed?"
+msgstr ""
+
+#: inc/theme-options/search-options.php:10
+msgid "This section contains options for course search."
+msgstr ""
+
+#: inc/theme-options/social-share-options.php:7
+msgid "Social Share Links"
+msgstr ""
+
+#: inc/theme-options/social-share-options.php:10
+msgid "This section contains options for socila sharing links."
+msgstr ""
+
+#: inc/theme-options/social-share-options.php:47
+#: inc/util/basic-functions.php:275
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/theme-options/social-share-options.php:55
+#: inc/util/basic-functions.php:276
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/theme-options/social-share-options.php:63
+#: inc/util/basic-functions.php:277
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/theme-options/styles-options.php:8
+msgid "Styles"
+msgstr ""
+
+#: inc/theme-options/styles-options.php:10
+msgid "This section contains styles related options."
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:8
+msgid "Basic"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:10
+msgid "This sub section contains basic styles options."
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:18
+msgid "Main Background"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:19
+msgid "Configure body background of your choice. ( default:#ffffff )"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:25
+msgid "Do you want to change fonts?"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:77
+msgid "Headings Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:97
+msgid "Quote Text Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:106
+msgid "Link Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:118
+msgid "Link Color in All Listing Contents"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:159
+msgid "Pagination Normal Text Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:168
+msgid "Pagination Normal Border "
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:180
+msgid "Pagination Normal Background Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:190
+msgid "Pagination Hover Text Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:199
+msgid "Pagination Hover Border "
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:211
+msgid "Pagination Hover Background Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:222
+msgid "Quick CSS"
+msgstr ""
+
+#: inc/theme-options/styles-options/basic-styles-options.php:223
+msgid ""
+"You can use this box for some quick css changes. For big changes, Use the "
+"custom.css file in assets/css folder. In case of child theme please use "
+"style.css file in child theme."
+msgstr ""
+
+#: inc/theme-options/styles-options/footer-styles-options.php:10
+msgid "This sub section contains footer styles options."
+msgstr ""
+
+#: inc/theme-options/styles-options/footer-styles-options.php:20
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/footer-styles-options.php:42
+msgid "Footer Headings Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/footer-styles-options.php:51
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/footer-styles-options.php:59
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:10
+msgid "This sub section contains header styles options."
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:20
+msgid "Do you want to change menu style?"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:29
+msgid "Main Menu Text Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:40
+msgid "Main Menu Text Color on Hover"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:52
+msgid "Main Menu Background Color on Hover"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:65
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:75
+msgid "Main Menu Dropdown Text Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:86
+msgid "Main Menu Dropdown Text Color on Hover"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:98
+msgid "Dropdown Text Hover Background Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:118
+msgid "Logo Text Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:124
+msgid "Header Tagline Text Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:142
+msgid "Header Top Bar Background Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:150
+msgid "Header Top Bar Text Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:159
+msgid "Header Top Bar Bottom Border Color"
+msgstr ""
+
+#: inc/theme-options/styles-options/header-styles-options.php:167
+msgid "User Navigation Link Color"
+msgstr ""
+
+#: inc/util/basic-functions.php:18
+msgid "(Edit)"
+msgstr ""
+
+#: inc/util/basic-functions.php:47
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/util/basic-functions.php:49
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: inc/util/basic-functions.php:269
+msgid "Job Title"
+msgstr ""
+
+#: inc/util/basic-functions.php:270
+msgid "Mobile"
+msgstr ""
+
+#: inc/util/basic-functions.php:368 inc/util/basic-functions.php:409
+msgid "Sort by:"
+msgstr ""
+
+#: inc/util/basic-functions.php:441
+msgid "Popularity"
+msgstr ""
+
+#: inc/util/basic-functions.php:955 page-templates/tpl-wishlist-course.php:142
+msgid "Wishlist"
+msgstr ""
+
+#: inc/util/basic-functions.php:1041
+#: inc/widgets/course-price-filter-widget.php:50
+msgid "Free"
+msgstr ""
+
+#: inc/widgets/course-cat-filter-widget.php:8
+msgid "Filter Course By Course Categories"
+msgstr ""
+
+#: inc/widgets/course-cat-filter-widget.php:10
+msgid "Course Categories Filter"
+msgstr ""
+
+#: inc/widgets/course-cat-filter-widget.php:73
+msgid "Category Filter Title"
+msgstr ""
+
+#: inc/widgets/course-lang-filter-widget.php:8
+msgid "Filter Course By Languages"
+msgstr ""
+
+#: inc/widgets/course-lang-filter-widget.php:10
+msgid "Course Language Filter"
+msgstr ""
+
+#: inc/widgets/course-lang-filter-widget.php:74
+msgid "Language Filter Title"
+msgstr ""
+
+#: inc/widgets/course-price-filter-widget.php:8
+msgid "Filter Course By Free OR Paid"
+msgstr ""
+
+#: inc/widgets/course-price-filter-widget.php:11
+msgid "Courses Price Filter"
+msgstr ""
+
+#: inc/widgets/course-price-filter-widget.php:59
+msgid "Paid"
+msgstr ""
+
+#: inc/widgets/course-price-filter-widget.php:79
+msgid "Price Filter Title"
+msgstr ""
+
+#: inc/widgets/course-search-widget.php:8
+msgid "Course search form"
+msgstr ""
+
+#: inc/widgets/course-search-widget.php:32
+#: inc/widgets/course-search-widget.php:36
+msgid "Search for:"
+msgstr ""
+
+#: inc/widgets/course-search-widget.php:60
+msgid "Search Form Title"
+msgstr ""
+
+#: inc/widgets/recent-course-widget.php:8
+msgid "Displays recent, most popular and most rated courses."
+msgstr ""
+
+#: inc/widgets/recent-course-widget.php:161
+msgid "No courses found!"
+msgstr ""
+
+#: inc/widgets/recent-course-widget.php:185
+#: inc/widgets/recent-event-widget.php:111
+#: inc/widgets/recent-posts-widget.php:125
+#: inc/widgets/similar-courses-widget.php:143
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widgets/recent-course-widget.php:189
+#: inc/widgets/recent-posts-widget.php:129
+msgid "Category"
+msgstr ""
+
+#: inc/widgets/recent-course-widget.php:200
+#: inc/widgets/recent-event-widget.php:119
+#: inc/widgets/recent-posts-widget.php:140
+#: inc/widgets/similar-courses-widget.php:151
+msgid "Sort By:"
+msgstr ""
+
+#: inc/widgets/recent-course-widget.php:209
+msgid "Most Wishlisted"
+msgstr ""
+
+#: inc/widgets/recent-event-widget.php:8
+msgid "Show events with image."
+msgstr ""
+
+#: inc/widgets/recent-event-widget.php:10
+msgid "Recent Events With Image"
+msgstr ""
+
+#: inc/widgets/recent-event-widget.php:88
+msgid "No recent events found!"
+msgstr ""
+
+#: inc/widgets/recent-event-widget.php:115
+msgid "Number of Events"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:8
+msgid "Show posts with image."
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:10
+msgid "Recent Posts With Image"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:101
+msgid "No recent posts found!"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:136
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widgets/similar-courses-widget.php:8
+msgid "Displays similar courses in course detail page sidebar."
+msgstr ""
+
+#: inc/widgets/similar-courses-widget.php:10
+msgid "Similar Courses"
+msgstr ""
+
+#: inc/widgets/similar-courses-widget.php:120
+msgid "No similar courses found!"
+msgstr ""
+
+#: page-add-new-discussion.php:17
+msgid "Question title is required."
+msgstr ""
+
+#: page-add-new-discussion.php:20
+msgid "Question description is required."
+msgstr ""
+
+#: page-add-new-discussion.php:86
+msgid "Course General"
+msgstr ""
+
+#: page-add-new-discussion.php:93
+msgid "Title of your question"
+msgstr ""
+
+#: page-add-new-discussion.php:96
+msgid "Question description..."
+msgstr ""
+
+#: page-add-new-discussion.php:100
+msgid "Ask this Question"
+msgstr ""
+
+#: page-add-new-discussion.php:106
+msgid "Cancel"
+msgstr ""
+
+#: page-templates/tpl-contact.php:96 page-templates/tpl-fullwidth.php:34
+#: page-templates/tpl-our-techers.php:34 page-templates/tpl-pagebuilder.php:32
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: page-templates/tpl-contact.php:184
+msgid "Map and Location"
+msgstr ""
+
+#: page-templates/tpl-gallery.php:36
+msgid "All Images"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Years"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Months"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Weeks"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Days"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Hours"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Minutes"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Seconds"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Year"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Month"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Week"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Day"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Hour"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Minute"
+msgstr ""
+
+#: page-templates/tpl-under-construction.php:94
+#: template-parts/content-event.php:101
+msgid "Second"
+msgstr ""
+
+#: page-templates/tpl-wishlist-course.php:43
+msgid "Courses you wishlisted"
+msgstr ""
+
+#: partials/header/header-meta-one.php:34
+#: partials/header/header-meta-one.php:40
+#: partials/header/header-meta-two.php:35
+#: partials/header/header-meta-two.php:42
+msgid "Log out"
+msgstr ""
+
+#: partials/header/header-meta-one.php:36
+#: partials/header/header-meta-one.php:42
+#: partials/header/header-meta-two.php:37
+#: partials/header/header-meta-two.php:44
+msgid "Signup"
+msgstr ""
+
+#: partials/header/header-meta-one.php:36
+#: partials/header/header-meta-one.php:43
+#: partials/header/header-meta-two.php:38
+#: partials/header/header-meta-two.php:45 student-login.php:25
+#: student-login.php:39
+msgid "Login"
+msgstr ""
+
+#: search.php:30
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3 searchform.php:7
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:5
+msgctxt "placeholder"
+msgid "Search …"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: single-instructor.php:36
+#, php-format
+msgid "Instructor: %s"
+msgstr ""
+
+#: single.php:92
+msgid "In"
+msgstr ""
+
+#: single.php:149
+msgid "View All Post"
+msgstr ""
+
+#: student-dashboard.php:16
+msgid "Dashboard Courses"
+msgstr ""
+
+#: student-settings.php:21
+msgid "Dashboard - Edit Profile"
+msgstr ""
+
+#: student-settings.php:38
+msgid "Edit Profile"
+msgstr ""
+
+#: student-signup.php:23 student-signup.php:36
+msgid "Register"
+msgstr ""
+
+#: template-parts/content-course-overview.php:42
+msgid "Instructed by: "
+msgstr ""
+
+#: template-parts/content-course-overview.php:107
+#: template-parts/content-course-overview.php:373
+msgid "Price:"
+msgstr ""
+
+#: template-parts/content-course-overview.php:116
+#: template-parts/content-course-overview.php:382
+msgid "Contact To Instructors"
+msgstr ""
+
+#: template-parts/content-course-overview.php:120
+#: template-parts/content-course-overview.php:387
+msgid "Enroll This Course"
+msgstr ""
+
+#: template-parts/content-course-overview.php:174
+#: template-parts/content-course-overview.php:450
+msgid "Lectures:"
+msgstr ""
+
+#: template-parts/content-course-overview.php:177
+#: template-parts/content-course-overview.php:453
+msgid "You Enrolled:"
+msgstr ""
+
+#: template-parts/content-course-overview.php:179
+#: template-parts/content-course-overview.php:455
+msgid "Enroll Dates:"
+msgstr ""
+
+#: template-parts/content-course-overview.php:182
+#: template-parts/content-course-overview.php:458
+msgid "Course Dates:"
+msgstr ""
+
+#: template-parts/content-course-overview.php:184
+#: template-parts/content-course-overview.php:460
+msgid "Enrollment:"
+msgstr ""
+
+#: template-parts/content-course-overview.php:188
+#: template-parts/content-course-overview.php:464
+msgid "Language:"
+msgstr ""
+
+#: template-parts/content-course-overview.php:193
+#: template-parts/content-course-overview.php:469
+msgid "Duration:"
+msgstr ""
+
+#: template-parts/content-course-overview.php:193
+#: template-parts/content-course-overview.php:469
+msgid "(HH:MM:SS)"
+msgstr ""
+
+#: template-parts/content-course-overview.php:204
+#: template-parts/content-course-overview.php:478
+msgid "Includes:"
+msgstr ""
+
+#: template-parts/content-course-overview.php:204
+#: template-parts/content-course-overview.php:478
+msgid "Certificate of Completion"
+msgstr ""
+
+#: template-parts/content-course-overview.php:210
+#: template-parts/content-course-overview.php:484
+msgid "Class Size:"
+msgstr ""
+
+#: template-parts/content-course-rating.php:29
+msgid "Average Rating"
+msgstr ""
+
+#: template-parts/content-course-rating.php:45
+msgid "ratings"
+msgstr ""
+
+#: template-parts/content-course-rating.php:53
+msgid "Details"
+msgstr ""
+
+#: template-parts/content-course-rating.php:56
+msgid "5 Stars"
+msgstr ""
+
+#: template-parts/content-course-rating.php:64
+msgid "4 Stars"
+msgstr ""
+
+#: template-parts/content-course-rating.php:72
+msgid "3 Stars"
+msgstr ""
+
+#: template-parts/content-course-rating.php:81
+msgid "2 Stars"
+msgstr ""
+
+#: template-parts/content-course-rating.php:90
+msgid "1 Stars"
+msgstr ""
+
+#: template-parts/content-course-rating.php:104
+msgid "ADD A REVIEW"
+msgstr ""
+
+#: template-parts/content-course-structure.php:20
+#: template-parts/content-course-structure.php:376
+msgid "Preview"
+msgstr ""
+
+#: template-parts/content-course-structure.php:29
+msgid "Course Structure"
+msgstr ""
+
+#: template-parts/content-course-structure.php:224
+#, php-format
+msgid "Untitled Page %s"
+msgstr ""
+
+#: template-parts/content-discussion.php:44
+msgid "Comments are disabled"
+msgstr ""
+
+#: template-parts/content-event.php:36
+msgid "at:"
+msgstr ""
+
+#: template-parts/content-event.php:39
+msgid "Time:"
+msgstr ""
+
+#: template-parts/content-event.php:109
+msgid "Join Event"
+msgstr ""
+
+#: template-parts/content-event.php:121
+msgid "This event is expired."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""

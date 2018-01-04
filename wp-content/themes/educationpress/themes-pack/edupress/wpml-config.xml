@@ -1,0 +1,158 @@
+<wpml-config>
+	 <admin-texts>
+        <key name="edupress_options">
+			<key name="edupress_home_three_searchform_title" />
+			<key name="edupress_favicon">
+                <key name="url" />
+            </key>
+			<key name="edupress_header_phone" />
+			<key name="edupress_home_title" />
+			<key name="edupress_home_three_searchform_icontext1" />
+			<key name="edupress_home_three_searchform_icontext2" />
+			<key name="edupress_home_three_searchform_icontext3" />
+			<key name="edupress_page_loader_gif">
+			    <key name="url" />
+            </key>
+			<key name="edupress_header_phone" />
+			<key name="edupress_header_email" />
+			
+			<!--For Course-->
+			<key name="edupress_instructor_title" />
+			
+			<!--For Uni Course Details-->
+			<key name="edupress_campuslisting_short_desc" />
+			<key name="edupress_classdetail_enroll_btn_contact_title" />
+			<key name="edupress_classdetail_enroll_btn_contact_desc" />
+			<key name="edupress_classdetail_enroll_btn_contact_form" />
+			<key name="edupress_classdetail_enroll_btn_text" />
+			<key name="edupress_classdetail_enroll_btn_link" />
+			
+			<!-- For Kid -->
+			<key name="edupress_class_currency_symbol" />
+			<key name="edupress_class_currency_position" />
+			
+			<!--For Blog-->
+			<key name="edupress_related_posts_title" />
+			
+			<!--
+            Comming Soon
+			-->
+			<key name="edupress_coming_soon_title" />
+			<key name="edupress_coming_soon_desc" />
+			<key name="edupress_coming_soon_headings_font">
+				<key name="*"/>
+			</key>
+			<key name="edupress_coming_soon_body_font">
+				<key name="*" />
+			</key>
+			
+			<!--For NewsLetter-->
+			<key name="edupress_newsletter_title" />
+			<key name="edupress_newsletter_desc" />
+			<key name="edupress_newsletter_shortcode" />
+			
+			<!--
+			Footer
+			-->
+			<key name="educationpress_copyright_html" />
+			<key name="educationpress_developby_html" />
+			
+			<!--
+			Styles
+			-->
+			<key name="educationpress_quick_css" />
+		</key>
+		
+		<!-- 
+		Widgets
+		--> 
+		<key name="widget_edupress_ecommerce_similar_courses_widget">
+			<key name="*">
+				<key name="title" />
+			</key>
+		</key>
+		<key name="widget_edupress_ecommerce_courses_widget">
+			<key name="*">
+				<key name="title" />
+			</key>
+		</key>
+		<key name="widget_edupress_ecommerce_search_cat_filter">
+			<key name="*">
+				<key name="title" />
+			</key>
+		</key>
+		<key name="widget_edupress_ecommerce_search_price_filter">
+			<key name="*">
+				<key name="title" />
+			</key>
+		</key>
+		
+				<key name="widget_edupress_ecommerce_course_search_widget">
+			<key name="*">
+				<key name="title" />
+			</key>
+		</key>
+		<key name="widget_edupress_ecommerce_Courses_Widget">
+			<key name="*">
+				<key name="title" />
+			</key>
+		</key>
+		<key name="widget_edupress_ecommerce_Similar_Courses_Widget">
+			<key name="*">
+				<key name="title" />
+			</key>
+		</key>
+		
+		<!-- Uni Widgets -->
+		<key name="widget_edupress_university_course_search_widget">
+			<key name="*">
+				<key name="title" />
+			</key>
+		</key>
+		<key name="edupress_university_Footer_Contact_Widget">
+			<key name="*">
+				<key name="title" />
+				<key name="address" />
+				<key name="phone" />
+				<key name="email" />
+			</key>
+		</key>
+		<key name="edupress_Recent_Posts_Widget">
+			<key name="*">
+				<key name="title" />
+				<key name="cat" />
+			</key>
+		</key>
+		<key name="widget_our-instructors-widget">
+			<key name="*">
+				<key name="title" />
+			</key>
+		</key>
+		
+		<!-- Kid Widgets -->
+		<key name="widget_edupress_kid_cat_list">
+			<key name="*">
+				<key name="title" />
+			</key>
+		</key>
+		<key name="widget_edupress_kid_Recent_Classes_Widget">
+			<key name="*">
+				<key name="title" />
+			</key>
+		</key>
+		<key name="widget_edupress_kid_course_search_widget">
+			<key name="*">
+				<key name="title" />
+				<key name="placeholder" />
+			</key>
+		</key>
+
+		<key name="widget_edupress_kid_Similar_Classes_Widget">
+			<key name="*">
+				<key name="title" />
+			</key>
+		</key>
+
+		
+    </admin-texts>
+</wpml-config>
